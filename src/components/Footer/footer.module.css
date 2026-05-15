@@ -19,7 +19,7 @@
 
 .inner {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr;
+  grid-template-columns: 1.5fr 1fr 1fr;
   gap: 60px;
   align-items: start;
   position: relative;
@@ -30,7 +30,7 @@
   font-weight: 900;
   letter-spacing: -0.5px;
   font-size: 28px;
-  margin-bottom: 20px;
+  margin-bottom: 16px;
   background: linear-gradient(135deg, #FF9933 0%, #ffffff 50%, #128807 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -49,7 +49,12 @@
 .col {
   display: flex;
   flex-direction: column;
-  gap: 14px;
+}
+
+.footerNav {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
 }
 
 .link {
@@ -73,6 +78,46 @@
   font-size: 1rem;
   line-height: 1.8;
   max-width: 400px;
+  margin-bottom: 24px;
+}
+
+.socials {
+  display: flex;
+  gap: 16px;
+}
+
+.socialLink {
+  color: rgba(255, 255, 255, 0.8);
+  background: rgba(255, 255, 255, 0.05);
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.socialLink:hover {
+  background: #FF9933;
+  color: #fff;
+  transform: translateY(-5px);
+  border-color: #FF9933;
+  box-shadow: 0 10px 20px rgba(255, 153, 51, 0.3);
+}
+
+.contactItem {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.95rem;
+}
+
+.contactItem svg {
+  color: #FF9933;
 }
 
 .bottom {
@@ -88,6 +133,33 @@
   align-items: center;
 }
 
+.copyright .heart {
+  color: #ff4d4d;
+  display: inline-block;
+  animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+  100% { transform: scale(1); }
+}
+
+.bottomLinks {
+  display: flex;
+  gap: 24px;
+}
+
+.bottomLinks a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.bottomLinks a:hover {
+  color: #fff;
+}
+
 @media (max-width: 900px) {
   .inner {
     grid-template-columns: 1fr;
@@ -99,8 +171,12 @@
     align-items: center;
   }
   
+  .footerNav {
+    align-items: center;
+  }
+  
   .muted {
-    margin: 0 auto;
+    margin: 0 auto 24px;
   }
   
   .link:hover {
