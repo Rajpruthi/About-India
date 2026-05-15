@@ -178,9 +178,9 @@
 .overlay {
   position: fixed;
   inset: 0;
-  background: rgba(0, 0, 0, 0.2);
-  backdrop-filter: blur(4px);
-  z-index: 998;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(8px);
+  z-index: 1100;
 }
 
 .mobileNav {
@@ -188,11 +188,13 @@
   top: 0;
   right: 0;
   bottom: 0;
-  width: 300px;
-  background: white;
-  z-index: 999;
-  box-shadow: -10px 0 30px rgba(0, 0, 0, 0.1);
-  padding: 80px 24px 24px;
+  width: 320px;
+  background: #ffffff;
+  z-index: 1200;
+  box-shadow: -10px 0 50px rgba(0, 0, 0, 0.2);
+  padding: 100px 24px 24px;
+  display: flex;
+  flex-direction: column;
 }
 
 .mobileNavContent {
@@ -201,33 +203,69 @@
   gap: 16px;
 }
 
+.mobileLinkWrapper {
+  width: 100%;
+}
+
 .mobileLink {
   text-decoration: none;
-  color: #333;
-  font-size: 1.2rem;
-  font-weight: 700;
-  display: block;
-  padding: 12px 16px;
-  border-radius: 12px;
+  color: #1a1a1a;
+  font-size: 1.1rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  border-radius: 14px;
   transition: all 0.2s ease;
+  background: #fdfdfd;
+  border: 1px solid rgba(0, 0, 0, 0.03);
+  margin-bottom: 8px;
+}
+
+.mobileLinkLabel {
+  flex: 1;
 }
 
 .mobileActive {
-  background: rgba(255, 153, 51, 0.1);
-  color: #FF9933;
+  background: linear-gradient(135deg, #FF9933 0%, #FFB366 100%);
+  color: #ffffff;
+  border: none;
+  box-shadow: 0 4px 15px rgba(255, 153, 51, 0.3);
+}
+
+.mobileActive svg {
+  stroke: #ffffff;
 }
 
 .mobileSearch {
-  margin-bottom: 24px;
+  margin-bottom: 32px;
 }
 
 .mobileSearch input {
   width: 100%;
-  padding: 14px 20px;
-  border-radius: 12px;
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  background: rgba(0, 0, 0, 0.03);
+  padding: 16px 20px;
+  border-radius: 16px;
+  border: 2px solid rgba(0, 0, 0, 0.05);
+  background: #f8f9fa;
   font-size: 1rem;
+  outline: none;
+  transition: all 0.2s ease;
+}
+
+.mobileSearch input:focus {
+  border-color: #FF9933;
+  background: #fff;
+  box-shadow: 0 4px 20px rgba(255, 153, 51, 0.1);
+}
+
+.mobileNavFooter {
+  margin-top: auto;
+  padding-top: 24px;
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
+  text-align: center;
+  color: #888;
+  font-size: 0.9rem;
 }
 
 @media (max-width: 1024px) {

@@ -111,22 +111,23 @@ export function Navbar() {
               transition={{ type: 'spring', damping: 25, stiffness: 200 }}
               className={styles.mobileNav}
             >
+              <div className={styles.mobileSearch}>
+                 <form onSubmit={onSubmit}>
+                    <input
+                      value={query}
+                      onChange={(e) => setQuery(e.target.value)}
+                      placeholder="Search India..."
+                    />
+                 </form>
+              </div>
               <div className={styles.mobileNavContent}>
-                <div className={styles.mobileSearch}>
-                   <form onSubmit={onSubmit}>
-                      <input
-                        value={query}
-                        onChange={(e) => setQuery(e.target.value)}
-                        placeholder="Search..."
-                      />
-                   </form>
-                </div>
                 {menu.map((m, idx) => (
                   <motion.div
                     initial={{ opacity: 0, x: 20 }}
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ delay: idx * 0.05 }}
                     key={m.to}
+                    className={styles.mobileLinkWrapper}
                   >
                     <NavLink
                       to={m.to}
@@ -135,10 +136,14 @@ export function Navbar() {
                         `${styles.mobileLink} ${isActive ? styles.mobileActive : ''}`
                       }
                     >
-                      {m.label}
+                      <span className={styles.mobileLinkLabel}>{m.label}</span>
+                      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg>
                     </NavLink>
                   </motion.div>
                 ))}
+              </div>
+              <div className={styles.mobileNavFooter}>
+                <p>© {new Date().getFullYear()} India Info Portal</p>
               </div>
             </motion.nav>
           </>
