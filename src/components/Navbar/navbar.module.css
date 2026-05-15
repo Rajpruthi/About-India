@@ -2,17 +2,19 @@
   position: sticky;
   top: 0;
   z-index: 1000;
-  background: rgba(255, 255, 255, 0.7);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
-  transition: all 0.3s ease;
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .scrolled {
-  background: rgba(255, 255, 255, 0.85);
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.03);
-  padding: 4px 0;
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 
+    0 4px 30px rgba(0, 0, 0, 0.03),
+    0 1px 0 rgba(255, 153, 51, 0.1);
+  padding: 6px 0;
 }
 
 .inner {
@@ -52,11 +54,12 @@
 
 .brandText {
   font-weight: 800;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   background: linear-gradient(135deg, #1b2a4a 0%, #3a506b 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  letter-spacing: -0.5px;
+  letter-spacing: -0.8px;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.05));
 }
 
 .desktopNav {
@@ -103,18 +106,19 @@
 .search {
   display: flex;
   align-items: center;
-  background: rgba(0, 0, 0, 0.03);
-  border-radius: 12px;
-  padding: 6px 12px;
+  background: rgba(0, 0, 0, 0.04);
+  border-radius: 14px;
+  padding: 8px 16px;
   border: 1px solid rgba(0, 0, 0, 0.05);
-  width: 240px;
-  transition: all 0.3s ease;
+  width: 260px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .search:focus-within {
   background: #fff;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
-  width: 280px;
+  box-shadow: 0 10px 25px rgba(255, 153, 51, 0.15);
+  border-color: rgba(255, 153, 51, 0.3);
+  width: 320px;
 }
 
 .search input {

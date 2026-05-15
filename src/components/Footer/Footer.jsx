@@ -21,7 +21,7 @@ export function Footer() {
 
         <div className={styles.col}>
           <div className={styles.title}>Contact</div>
-          <div className={styles.muted}>contact@indiainfo.com</div>
+          <div className={styles.muted}>pruthirajrout843@gmail.com</div>
           <div className={styles.muted}>+91 72057 46680</div>
         </div>
 
