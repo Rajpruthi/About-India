@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import styles from './footer.module.css';
 
 export function Footer() {
@@ -11,20 +12,21 @@ export function Footer() {
         </div>
 
         <div className={styles.col}>
-          <div className={styles.title}>Links</div>
-          <a className={styles.link} href="/">Home</a>
-          <a className={styles.link} href="/states">States</a>
-          <a className={styles.link} href="/government">Government</a>
+          <div className={styles.title}>Quick Links</div>
+          <Link className={styles.link} to="/">Home</Link>
+          <Link className={styles.link} to="/states">States</Link>
+          <Link className={styles.link} to="/government">Government</Link>
+          <Link className={styles.link} to="/about">About</Link>
         </div>
 
         <div className={styles.col}>
           <div className={styles.title}>Contact</div>
-          <div className={styles.muted}>info@indiainf oportal.example</div>
+          <div className={styles.muted}>contact@indiainfo.com</div>
           <div className={styles.muted}>+91 72057 46680</div>
         </div>
 
         <div className={styles.bottom}>
-          <span>© {new Date().getFullYear()} India Info Portal. All rights reserved.</span>
+          <span>© {new Date().getFullYear()} India Info Portal. Built with ❤️ for India.</span>
         </div>
       </div>
     </footer>

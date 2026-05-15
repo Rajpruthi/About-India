@@ -237,11 +237,19 @@
   .mobileMenuBtn {
     display: block;
   }
+  .header {
+    background: #fff; /* Solid background for mobile visibility */
+  }
 }
 
 @media (max-width: 480px) {
   .brandText {
-    display: none;
+    display: block;
+    font-size: 1rem;
+  }
+  .brandMark {
+    width: 24px;
+    height: 24px;
   }
   .mobileNav {
     width: 100%;
