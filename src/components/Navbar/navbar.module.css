@@ -1,0 +1,56 @@
+.header{position:sticky; top:0; z-index:50; background:rgba(255,255,255,0.75); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom:1px solid rgba(2,6,23,0.06);}
+.inner{display:flex; align-items:center; justify-content:space-between; gap:16px; padding:14px 0;}
+.brand{display:flex; align-items:center; gap:12px; min-width:max-content;}
+.brandMark{width:14px; height:14px; border-radius:4px; background:linear-gradient(135deg, var(--saffron), var(--green)); box-shadow:0 8px 20px rgba(255, 122, 24, 0.25);}
+.brandText{font-weight:800; letter-spacing:0.2px; color:var(--indigo);}
+
+.nav{display:flex; gap:18px; align-items:center;}
+.link{color:var(--muted); font-weight:600; padding:10px 10px; border-radius:12px; transition:all .2s ease;}
+.link:hover{background:rgba(27,42,74,0.05); color:var(--indigo); transform:translateY(-1px);}
+.active{color:var(--indigo); background:rgba(255, 122, 24, 0.10);}
+
+.search{display:flex; align-items:center; gap:8px; background:rgba(255,255,255,0.9); border:1px solid rgba(2,6,23,0.08); padding:8px 10px; border-radius:999px; box-shadow:0 12px 30px rgba(2,6,23,0.05); min-width:320px;}
+.search input{border:none; outline:none; background:transparent; width:100%; color:var(--text);}
+.search button{border:none; background:transparent; cursor:pointer; font-size:16px; padding:6px 8px; border-radius:10px; transition:background .2s ease;}
+.search button:hover{background:rgba(2,6,23,0.06);}
+
+.mobileMenuBtn{display:none; border:none; background:rgba(2,6,23,0.04); border:1px solid rgba(2,6,23,0.08); border-radius:12px; padding:10px 12px; cursor:pointer;}
+
+@media (max-width: 900px){
+  .nav{
+    position: fixed;
+    top: 68px;
+    left: 0;
+    right: 0;
+    background: #fff;
+    flex-direction: column;
+    padding: 24px;
+    gap: 12px;
+    box-shadow: 0 20px 40px rgba(2,6,23,0.1);
+    transform: translateY(-110%);
+    transition: transform 0.3s ease-in-out;
+    display: flex;
+    z-index: 49;
+  }
+  .navOpen {
+    transform: translateY(0);
+  }
+  .search{display: none;}
+  .mobileMenuBtn{display:block;}
+  .inner{padding:12px 0;}
+}
+
+.overlay {
+  position: fixed;
+  inset: 0;
+  top: 68px;
+  background: rgba(2, 6, 23, 0.2);
+  backdrop-filter: blur(4px);
+  z-index: 48;
+}
+
+@media (max-width: 520px) {
+  .brandText { font-size: 14px; }
+  .inner { gap: 8px; }
+}
+

@@ -1,0 +1,412 @@
+{
+  "presidentHistory": [
+    {
+      "name": "Droupadi Murmu",
+      "slug": "president",
+      "role": "President of India",
+      "term": "2017-2022 (Governor) · 2022-present (President)",
+      "bio": "Current President of India. First tribal woman President; known for education, tribal welfare, and social service.",
+        "image": "https://www.afternoonvoice.com/wp-content/uploads/2026/02/droupadi-murmu-president.webp"
+    },
+    {
+      "name": "Ram Nath Kovind",
+      "slug": "president-ram-nath-kovind",
+      "role": "President of India",
+      "term": "2017-2022",
+      "bio": "Served as President of India from 2017 to 2022.",
+        "image": "I Love India/Ram Nath Kovind.webp"
+    },
+    {
+      "name": "Pranab Mukherjee",
+      "slug": "president-pranab-mukherjee",
+      "role": "President of India",
+      "term": "2012-2017",
+      "bio": "Served as President of India from 2012 to 2017.",
+        "image": "I Love India/src/assets/Pranab Mukherjee.jpg"
+    },
+    {
+        "name": "Pratibha Patil",
+        "slug": "president-pratibha-patil",
+        "role": "President of India",
+        "term": "2007-2012",
+        "bio": "Served as President of India from 2007 to 2012. First woman to hold the office",
+        "image": "I Love India/src/assets/Pratibha Patil.jpg"
+    },
+    {
+        "name": "A. P. J. Abdul Kalam",
+        "slug": "president-apj-abdul-kalam",
+        "role": "President of India",
+        "term": "2002-2007",
+        "bio": "Served as President of India from 2002 to 2007. Known as the Missile Man of India for his work in aerospace and defense.",
+        "image": "I Love India/src/assets/A. P. J. Abdul Kalam.jpg"
+    },
+        {
+            "name": "K. R. Narayanan",
+            "slug": "president-kr-narayanan",
+            "role": "President of India",
+            "term": "1997-2002",
+            "bio": "Served as President of India from 1997 to 2002. First Dalit President of India.",
+            "image": "I Love India/src/assets/K. R. Narayanan.jpg"
+        },
+        {
+            "name": "Shankar Dayal Sharma",
+            "slug": "president-shankar-dayal-sharma",
+            "role": "President of India",
+            "term": "1992-1997",
+            "bio": "Served as President of India from 1992 to 1997.",
+            "image": "I Love India/src/assets/Shankar Dayal Sharma.jpg"
+        },
+        {
+            "name": "Ramaswamy Venkataraman",
+            "slug": "president-ramaswamy-venkataraman",
+            "role": "President of India",
+            "term": "1987-1992",
+            "bio": "Served as President of India from 1987 to 1992.",
+            "image": "I Love India/src/assets/Ramaswamy Venkataraman.jpg"
+        },
+        {
+            "name": "Giani Zail Singh",
+            "slug": "president-giani-zail-singh",
+            "role": "President of India",
+            "term": "1982-1987",
+            "bio": "Served as President of India from 1982 to 1987.",
+            "image": "I Love India/src/assets/Giani Zail Singh.jpg"
+        },
+        {
+            "name": "Neelam Sanjiva Reddy",
+            "slug": "president-neelam-sanjiva-reddy",
+            "role": "President of India",
+            "term": "1977-1982",
+            "bio": "Served as President of India from 1977 to 1982.",
+            "image": "I Love India/src/assets/Neelam Sanjiva Reddy.jpg"
+        },
+        {
+            "name": "Fakhruddin Ali Ahmed",
+            "slug": "president-fakhruddin-ali-ahmed",
+            "role": "President of India",
+            "term": "1974-1977",
+            "bio": "Served as President of India from 1974 to 1977.",
+            "image": "I Love India/src/assets/Fakhruddin Ali Ahmed.jpg"
+        },
+        {
+            "name": "V. V. Giri",
+            "slug": "president-vv-giri",
+            "role": "President of India",
+            "term": "1969-1974",
+            "bio": "Served as President of India from 1969 to 1974.",
+            "image": "I Love India/src/assets/V. V. Giri.jpg"
+        },
+        {
+            "name": "Zakir Husain",
+            "slug": "president-zakir-husain",
+            "role": "President of India",
+            "term": "1967-1969",
+            "bio": "Served as President of India from 1967 to 1969.",
+            "image": "I Love India/src/assets/Zakir Husain.jpg"
+        },
+        {
+            "name": "Sarvepalli Radhakrishnan",
+            "slug": "president-sarvepalli-radhakrishnan",
+            "role": "President of India",
+            "term": "1962-1967",
+            "bio": "Served as President of India from 1962 to 1967. Renowned philosopher and statesman.",
+            "image": "I Love India/src/assets/Sarvepalli Radhakrishnan.jpg"
+        },
+        {
+            "name": "Rajendra Prasad",
+            "slug": "president-rajendra-prasad",
+            "role": "President of India",
+            "term": "1950-1962",
+            "bio": "First President of India, serving from 1950 to 1962. Key figure in the Indian independence movement.",
+            "image": "I Love India/src/assets/Rajendra Prasad.jpg"
+        }
+  ],
+  "primeMinisterHistory": [
+    {
+      "name": "Narendra Damodardas Modi",
+      "slug": "prime-minister",
+      "role": "Prime Minister of India",
+      "term": "2014-present",
+      "bio": "Current Prime Minister of India. Known for initiatives such as Digital India, Make in India, and Swachh Bharat Abhiyan.",
+      "party": "Bharatiya Janata Party (BJP)",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyCsSuRUrovxvCswbKq6uae5zxvYi8Ip6NXw&s"
+    },
+    {
+      "name": "Manmohan Singh",
+      "slug": "prime-minister-manmohan-singh",
+      "role": "Prime Minister of India",
+      "term": "2004-2014",
+      "bio": "Served as Prime Minister from 2004 to 2014.",
+      "party": "Indian National Congress (INC)",
+      "image": "I Love India/Manmohan Singh.jpg"
+    },
+    {
+      "name": "Atal Bihari Vajpayee",
+      "slug": "prime-minister-atal-bihari-vajpayee",
+      "role": "Prime Minister of India",
+      "term": "1998-2004",
+      "bio": "Served as Prime Minister of India, including terms in 1998 and 1999-2004.",
+      "party": "Bharatiya Janata Party (BJP)",
+      "image": "I Love India/Atal Bihari Vajpayee.jpg"
+    },
+    {
+      "name": "H. D. Deve Gowda",
+      "slug": "prime-minister-hd-deve-gowda",
+      "role": "Prime Minister of India",
+      "term": "1996-1997",
+      "bio": "Served as Prime Minister of India from 1996 to 1997.",
+      "party": "Janata Dal (United) / Janata Dal",
+      "image": "I Love India/H. D. Deve Gowda.jpg"
+    },
+    {
+      "name": "P. V. Narasimha Rao",
+      "slug": "prime-minister-pv-narasimha-rao",
+      "role": "Prime Minister of India",
+      "term": "1991-1996",
+      "bio": "Served as Prime Minister of India from 1991 to 1996. Known for economic liberalization reforms.",
+      "party": "Indian National Congress (INC)",
+      "image": "I Love India/P. V. Narasimha Rao.jpg"
+    },
+    {
+      "name": "Chandra Shekhar",
+      "slug": "prime-minister-chandra-shekhar",
+      "role": "Prime Minister of India",
+      "term": "1990-1991",
+      "bio": "Served as Prime Minister of India from 1990 to 1991.",
+      "party": "Janata Dal / Samajwadi Janata Party",
+      "image": "I Love India/Chandra Shekhar.jpg"
+    },
+    {
+      "name": "Vishwanath Pratap Singh",
+      "slug": "prime-minister-vp-singh",
+      "role": "Prime Minister of India",
+      "term": "1989-1990",
+      "bio": "Served as Prime Minister of India from 1989 to 1990.",
+      "party": "Janata Dal",
+      "image": "I Love India/Vishwanath Pratap Singh.jpg"
+    },
+    {
+      "name": "Rajiv Gandhi",
+      "slug": "prime-minister-rajiv-gandhi",
+      "role": "Prime Minister of India",
+      "term": "1984-1989",
+      "bio": "Served as Prime Minister of India from 1984 to 1989. Youngest Prime Minister in Indian history.",
+      "party": "Indian National Congress (INC)",
+      "image": "I Love India/Rajiv Gandhi.jpg"
+    },
+    {
+      "name": "Indira Gandhi",
+      "slug": "prime-minister-indira-gandhi",
+      "role": "Prime Minister of India",
+      "term": "1966-1977 · 1980-1984",
+      "bio": "Served as Prime Minister of India from 1966 to 1977 and again from 1980 to 1984. First and only woman Prime Minister of India.",
+      "party": "Indian National Congress (INC)",
+      "image": "I Love India/Indira Gandhi.jpg"
+    },
+    {
+      "name": "Lal Bahadur Shastri",
+      "slug": "prime-minister-lal-bahadur-shastri",
+      "role": "Prime Minister of India",
+      "term": "1964-1966",
+      "bio": "Served as Prime Minister of India from 1964 to 1966. Known for promoting the slogan 'Jai Jawan Jai Kisan' (Hail the soldier, Hail the farmer).",
+      "party": "Indian National Congress (INC)",
+      "image": "I Love India/Lal Bahadur Shastri.jpg"
+    },
+    {
+      "name": "Jawaharlal Nehru",
+      "slug": "prime-minister-jawaharlal-nehru",
+      "role": "Prime Minister of India",
+      "term": "1947-1964",
+      "bio": "First Prime Minister of India, serving from 1947 to 1964. Key figure in the Indian independence movement and architect of modern India.",
+      "party": "Indian National Congress (INC)",
+      "image": "I Love India/Jawaharlal Nehru.jpg"
+    }
+  ],
+  "homeMinisterHistory": [
+    {
+      "name": "Amit Shah",
+      "slug": "home-minister",
+      "role": "Home Minister",
+      "term": "2019-present",
+      "bio": "Current Home Minister of India. Focused on national security, internal administration, and reforms.",
+      "image": "https://pbs.twimg.com/profile_images/1960953559878656004/12cG21VF_400x400.jpg"
+    },
+    {
+      "name": "Rajnath Singh",
+      "slug": "home-minister-rajnath-singh",
+      "role": "Home Minister",
+      "term": "2014-2019",
+      "bio": "Served as Home Minister from 2014 to 2019.",
+      "image": "https://en.wikipedia.org/wiki/Rajnath_Singh#/media/File:Rajnath_Singh_2014.jpg"
+    },
+    {
+      "name": "Sushilkumar Shinde",
+      "slug": "home-minister-sushilkumar-shinde",
+      "role": "Home Minister",
+      "term": "2012-2014",
+      "bio": "Served as Home Minister from 2012 to 2014.",
+        "image": "https://en.wikipedia.org/wiki/Sushilkumar_Shinde#/media/File:Sushilkumar_Shinde_2012.jpg"
+    },
+    {
+      "name": "P. Chidambaram",
+      "slug": "home-minister-p-chidambaram",
+      "role": "Home Minister",
+      "term": "2008-2012",
+      "bio": "Served as Home Minister from 2008 to 2012.",
+        "image": "https://en.wikipedia.org/wiki/P._Chidambaram#/media/File:P._Chidambaram_2008.jpg"
+    },
+    {
+      "name": "Shivraj Patil",
+      "slug": "home-minister-shivraj-patil",
+      "role": "Home Minister",
+      "term": "2004-2008",
+      "bio": "Served as Home Minister from 2004 to 2008.",
+        "image": "https://en.wikipedia.org/wiki/Shivraj_Patil#/media/File:Shivraj_Patil_2004.jpg"
+    },
+    {
+      "name": "L. K. Advani",
+      "slug": "home-minister-lk-advani",
+      "role": "Home Minister",
+      "term": "1998-2004",
+      "bio": "Served as Home Minister from 1998 to 2004.",
+        "image": "https://en.wikipedia.org/wiki/L._K._Advani#/media/File:L._K._Advani_2002.jpg"
+    },
+    {
+      "name": "S. B. Chavan",
+      "slug": "home-minister-sb-chavan",
+      "role": "Home Minister",
+      "term": "1986-1989 · 1991-1992",
+      "bio": "Served as Home Minister from 1986 to 1989 and again from 1991 to 1992.",
+        "image": "https://en.wikipedia.org/wiki/S._B._Chavan#/media/File:S._B._Chavan_1986.jpg"
+    },
+    {
+      "name": "P. V. Narasimha Rao",
+      "slug": "home-minister-pv-narasimha-rao",
+      "role": "Home Minister",
+      "term": "1984-1986",
+      "bio": "Served as Home Minister from 1984 to 1986.",
+        "image": "https://en.wikipedia.org/wiki/P._V._Narasimha_Rao#/media/File:P._V._Narasimha_Rao_1984.jpg"
+    },
+    {
+      "name": "R. K. Shastri",
+      "slug": "home-minister-rk-shastri",
+      "role": "Home Minister",
+      "term": "1963-1966",
+      "bio": "Served as Home Minister from 1963 to 1966.",
+        "image": "https://en.wikipedia.org/wiki/R._K._Shastri#/media/File:R._K._Shastri_1963.jpg"
+    },
+    {
+      "name": "Gulzarilal Nanda",
+      "slug": "home-minister-gulzarilal-nanda",
+      "role": "Home Minister",
+      "term": "1962-1963 · 1966-1967",
+      "bio": "Served as Home Minister from 1962 to 1963 and again from 1966 to 1967.",
+        "image": "https://en.wikipedia.org/wiki/Gulzarilal_Nanda#/media/File:Gulzarilal_Nanda_1962.jpg"
+    },
+    {
+      "name": "Lal Bahadur Shastri",
+      "slug": "home-minister-lal-bahadur-shastri",
+      "role": "Home Minister",
+      "term": "1961-1962",
+      "bio": "Served as Home Minister from 1961 to 1962.",
+        "image": "https://en.wikipedia.org/wiki/Lal_Bahadur_Shastri#/media/File:Lal_Bahadur_Shastri_1961.jpg"
+    },
+    {
+      "name": "Jawaharlal Nehru",
+      "slug": "home-minister-jawaharlal-nehru",
+      "role": "Home Minister",
+      "term": "1947-1961",
+      "bio": "Served as Home Minister from 1947 to 1961.",
+        "image": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru#/media/File:Jawaharlal_Nehru_1950.jpg"
+    },
+    {
+        "name": "Sardar Vallabhbhai Patel",
+        "slug": "home-minister-sardar-patel",
+        "role": "Home Minister",
+        "term": "1947",
+        "bio": "First Home Minister of independent India, serving in 1947. Key figure in the integration of princely states into the Indian Union.",
+        "image": "https://en.wikipedia.org/wiki/Vallabhbhai_Patel#/media/File:Vallabhbhai_Patel_1947.jpg"
+    },
+   {
+        "name": "Baldev Singh",
+        "slug": "home-minister-baldev-singh",
+        "role": "Home Minister",
+        "term": "1947 (interim)",
+        "bio": "Served as interim Home Minister in 1947 during the transition to independence.",
+        "image": "https://en.wikipedia.org/wiki/Baldev_Singh#/media/File:Baldev_Singh_1947.jpg"
+   },
+    {
+          "name": "K. Kamaraj",
+          "slug": "home-minister-k-kamaraj",
+          "role": "Home Minister",
+          "term": "1963 (interim)",
+          "bio": "Served as interim Home Minister in 1963 during a period of political transition.",
+            "image": "https://en.wikipedia.org/wiki/K._Kamaraj#/media/File:K._Kamaraj_1963.jpg"
+    },
+    {
+          "name": "G. K. Moopanar",
+          "slug": "home-minister-gk-moopanar",
+          "role": "Home Minister",
+          "term": "1991 (interim)",
+          "bio": "Served as interim Home Minister in 1991 during a period of political transition.",
+            "image": "https://en.wikipedia.org/wiki/G._K._Moopanar#/media/File:G._K._Moopanar_1991.jpg"
+    },
+    {
+          "name": "Chandra Shekhar",
+          "slug": "home-minister-chandra-shekhar",
+          "role": "Home Minister",
+          "term": "1990 (interim)",
+          "bio": "Served as interim Home Minister in 1990 during a period of political transition.",
+            "image": "https://en.wikipedia.org/wiki/Chandra_Shekhar#/media/File:Chandra_Shekhar_1990.jpg"
+    },
+    {
+            "name": "Vishwanath Pratap Singh",
+            "slug": "home-minister-vp-singh",
+            "role": "Home Minister",
+            "term": "1989 (interim)",
+            "bio": "Served as interim Home Minister in 1989 during a period of political transition.",
+            "image": "https://en.wikipedia.org/wiki/Vishwanath_Pratap_Singh#/media/File:Vishwanath_Pratap_Singh_1989.jpg"
+    },
+    {
+            "name": "P. V. Narasimha Rao",
+            "slug": "home-minister-pv-narasimha-rao",
+            "role": "Home Minister",
+            "term": "1984 (interim)",
+            "bio": "Served as interim Home Minister in 1984 during a period of political transition.",
+            "image": "https://en.wikipedia.org/wiki/P._V._Narasimha_Rao#/media/File:P._V._Narasimha_Rao_1984.jpg"
+    },
+    {
+            "name": "S. B. Chavan",
+            "slug": "home-minister-sb-chavan",
+            "role": "Home Minister",
+            "term": "1980 (interim)",
+            "bio": "Served as interim Home Minister in 1980 during a period of political transition.",
+            "image": "https://en.wikipedia.org/wiki/S._B._Chavan#/media/File:S._B._Chavan_1980.jpg"
+    },
+    {
+            "name": "Yashwantrao Chavan",
+            "slug": "home-minister-yashwantrao-chavan",
+            "role": "Home Minister",
+            "term": "1977 (interim)",
+            "bio": "Served as interim Home Minister in 1977 during a period of political transition.",
+            "image": "https://en.wikipedia.org/wiki/Yashwantrao_Chavan#/media/File:Yashwantrao_Chavan_1977.jpg"
+    },
+    {
+            "name": "Charan Singh",
+            "slug": "home-minister-charan-singh",
+            "role": "Home Minister",
+            "term": "1979 (interim)",
+            "bio": "Served as interim Home Minister in 1979 during a period of political transition.",
+            "image": "https://en.wikipedia.org/wiki/Charan_Singh#/media/File:Charan_Singh_1979.jpg"
+    },
+    {
+            "name": "Morarji Desai",
+            "slug": "home-minister-morarji-desai",
+            "role": "Home Minister",
+            "term": "1977-1979",
+            "bio": "Served as Home Minister from 1977 to 1979. Later became Prime Minister of India.",
+            "image": "https://en.wikipedia.org/wiki/Morarji_Desai#/media/File:Morarji_Desai_1977.jpg"
+    }
+  ]
+}
+

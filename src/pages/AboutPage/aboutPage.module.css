@@ -1,0 +1,114 @@
+.page{padding:28px 0 56px;}
+.container{width:min(1180px, 92vw); margin:0 auto;}
+
+.hero{padding:14px 0 24px;}
+.heroGrid{display:grid; grid-template-columns: 1.1fr 0.9fr; gap:22px; align-items:center;}
+.heroText{background:rgba(255,255,255,0.78); border:1px solid rgba(2,6,23,0.06); border-radius:24px; padding:18px; box-shadow:0 18px 50px rgba(2,6,23,0.05); position:relative; overflow:hidden;}
+
+.h1{margin:0; color:var(--indigo); font-size:clamp(30px, 3.8vw, 48px); letter-spacing:-0.4px;}
+.lead{margin:12px 0 14px; color:var(--muted); font-weight:650; line-height:1.55;}
+
+.timeline{display:flex; flex-direction:column; gap:12px; margin-top:12px;}
+.tItem{display:flex; gap:12px; align-items:flex-start; padding:10px 12px; border-radius:18px; background:rgba(255,255,255,0.55); border:1px solid rgba(2,6,23,0.06);}
+.tDot{width:12px; height:12px; border-radius:50%; background:linear-gradient(135deg, var(--saffron), var(--green)); margin-top:6px; box-shadow:0 0 0 4px rgba(255,122,24,0.15);}
+.tTitle{font-weight:1000; color:var(--indigo);}
+.tSub{margin-top:2px; color:var(--muted); font-weight:650; font-size:13px; line-height:1.4;}
+
+.heroOrbWrap{position:relative; height:360px; display:flex; align-items:center; justify-content:center;}
+.heroOrb{width:240px; height:240px; border-radius:50%; background:radial-gradient(circle at 30% 25%, rgba(255,122,24,0.35), rgba(255,122,24,0.05) 55%, rgba(11,122,62,0.20) 100%);
+  border:1px solid rgba(2,6,23,0.08);
+  transform-style:preserve-3d;
+  animation:orbSpin 6s ease-in-out infinite;
+}
+.heroOrb2{position:absolute; width:340px; height:340px; border-radius:50%; background:radial-gradient(circle at 40% 40%, rgba(11,122,62,0.18), rgba(11,122,62,0.00) 62%);
+  filter:blur(1px);
+  animation:orbFloat 4.8s ease-in-out infinite;
+}
+.heroGlow{position:absolute; width:160px; height:160px; border-radius:50%; background:radial-gradient(circle at 50% 50%, rgba(99,102,241,0.25), rgba(99,102,241,0) 62%);
+  transform: translateZ(10px);
+  animation:orbFloat2 3.6s ease-in-out infinite;
+}
+
+@keyframes orbSpin{0%,100%{transform:rotate(0deg) translateZ(0);}50%{transform:rotate(14deg) translateY(-6px);} }
+@keyframes orbFloat{0%,100%{transform: translateY(0);}50%{transform: translateY(-12px);} }
+@keyframes orbFloat2{0%,100%{transform: translateY(0) scale(1);}50%{transform: translateY(10px) scale(1.05);} }
+
+.section{padding:26px 0;}
+.sectionHead{display:flex; align-items:flex-end; justify-content:space-between; gap:14px; margin-bottom:16px;}
+.h2{margin:0; font-size:24px; color:var(--indigo);}
+.sectionSub{color:var(--muted); font-weight:700;}
+
+.grid{display:grid; grid-template-columns: repeat(3, 1fr); gap:14px;}
+
+.card3d{perspective:900px;}
+.cardInner{border-radius:24px; border:1px solid rgba(2,6,23,0.08); background:rgba(255,255,255,0.85); box-shadow:0 16px 40px rgba(2,6,23,0.06);
+  overflow:hidden; transform-style:preserve-3d; transition: transform 220ms ease, box-shadow 220ms ease; height:100%; display:flex; flex-direction:column;
+}
+.card3d:hover .cardInner{transform: rotateY(-8deg) rotateX(6deg) translateY(-2px); box-shadow:0 24px 70px rgba(2,6,23,0.10);}
+
+.cardMedia{height:170px; background:linear-gradient(135deg, rgba(255,122,24,0.18), rgba(11,122,62,0.10)); display:flex; align-items:center; justify-content:center;}
+.cardImg{width:110px; height:110px; border-radius:50%; border:4px solid rgba(255,255,255,0.9); object-fit:cover; box-shadow:0 18px 50px rgba(2,6,23,0.18); transform: translateZ(26px);}
+
+.cardBody{padding:14px 14px 16px; display:flex; flex-direction:column; gap:6px;}
+.cardName{font-weight:1000; color:var(--indigo); font-size:16px;}
+.cardRole{font-weight:850; color:rgba(27,42,74,0.65); font-size:13px;}
+.cardDetails{color:var(--muted); font-weight:650; font-size:13px; line-height:1.45;}
+
+@media (max-width: 980px){
+  .heroGrid{grid-template-columns:1fr;}
+  .heroOrbWrap{height:280px;}
+  .grid{grid-template-columns: repeat(2, 1fr);}
+}
+@media (max-width: 520px){
+  .grid{grid-template-columns:1fr;}
+  .heroOrbWrap { height: 220px; }
+  .heroOrb { width: 160px; height: 160px; }
+  .heroOrb2 { width: 220px; height: 220px; }
+}
+
+/* --- History eras (About page) --- */
+.erasLayout{display:grid; grid-template-columns: 340px 1fr; gap:18px; align-items:start;}
+@media (max-width: 920px){.erasLayout{grid-template-columns:1fr;}}
+
+.erasListWrap{background:rgba(255,255,255,0.65); border:1px solid rgba(2,6,23,0.06); border-radius:24px; padding:14px; display:flex; flex-direction:column; gap:10px;}
+.eraPick{display:flex; align-items:center; justify-content:space-between; gap:12px; width:100%; border-radius:18px; border:1px solid rgba(2,6,23,0.08); background:rgba(255,255,255,0.75); padding:12px 12px; cursor:pointer; transition:transform .15s ease, border-color .2s ease, background .2s ease;}
+.eraPick:hover{transform:translateY(-1px); border-color:rgba(2,6,23,0.18);}
+.eraPickActive{border-color:rgba(255,122,24,0.55); box-shadow:0 14px 30px rgba(255,122,24,0.12); background:rgba(255,255,255,0.92);}
+.eraPickLabel{font-weight:1000; color:var(--indigo); font-size:15px; text-align:left;}
+.eraPickArrow{font-weight:1000; color:rgba(27,42,74,0.55)}
+
+.eraGoBtn{margin-top:6px; border-radius:16px; border:1px solid rgba(2,6,23,0.10); background:rgba(11,122,62,0.08); color:var(--indigo); padding:10px 12px; cursor:pointer; font-weight:850;}
+.eraGoBtn:hover{background:rgba(11,122,62,0.12);}
+
+.eraDetail3d{position:relative; border-radius:24px; border:1px solid rgba(2,6,23,0.12); background:linear-gradient(180deg, rgba(255,255,255,0.86), rgba(255,255,255,0.56)); padding:16px; overflow:hidden; transform-style:preserve-3d;}
+.eraGlow{position:absolute; inset:-2px; background:radial-gradient(700px circle at 20% 0%, rgba(255,122,24,0.18), transparent 45%), radial-gradient(700px circle at 90% 20%, rgba(0,154,255,0.16), transparent 40%); opacity:.95; pointer-events:none;}
+
+.eraDetailTop{position:relative; z-index:2; display:flex; justify-content:space-between; gap:14px; align-items:flex-start; flex-wrap:wrap; margin-bottom:8px;}
+.eraDetailBadge{border-radius:999px; padding:8px 12px; border:1px solid rgba(2,6,23,0.10); background:rgba(255,255,255,0.75); font-weight:1000; color:var(--indigo); font-size:13px;}
+.eraDetailSubtitle{color:var(--muted); font-weight:750; max-width:520px; line-height:1.45;}
+
+.eraDetailBody{position:relative; z-index:2;}
+.eraDetailTitle{margin:0 0 10px; font-size:20px; color:var(--indigo);}
+.eraDetailBullets{margin:0; padding-left:18px; color:rgba(27,42,74,0.78); font-weight:650;}
+.eraDetailBullets li{margin:8px 0; line-height:1.45;}
+
+.eraDetailLayers{position:absolute; inset:0; pointer-events:none;}
+.eraLayerA,.eraLayerB,.eraLayerC{position:absolute; left:-20%; top:-30%; width:160%; height:60%; border-radius:30%; background:conic-gradient(from 180deg, rgba(255,122,24,.18), rgba(0,154,255,.12), rgba(120,60,255,.14), rgba(255,122,24,.18)); filter:blur(24px); opacity:.55; transform:translateZ(-40px); animation:aboutErasSpin 10s linear infinite;}
+.eraLayerB{top:10%; opacity:.35; animation-duration:14s; transform:translateZ(-60px);}
+.eraLayerC{top:30%; opacity:.25; animation-duration:18s; transform:translateZ(-80px);}
+@keyframes aboutErasSpin{from{transform:translateZ(-40px) rotate(0deg);}to{transform:translateZ(-40px) rotate(360deg);}}
+
+@media (prefers-reduced-motion: reduce){
+  .heroOrb,.heroOrb2,.heroGlow{animation:none;}
+  .cardInner{transition:none;}
+  .card3d:hover .cardInner{transform:none;}
+  .eraLayerA,.eraLayerB,.eraLayerC{animation:none;}
+}
+
+
+@media (prefers-reduced-motion: reduce){
+  .heroOrb,.heroOrb2,.heroGlow{animation:none;}
+  .cardInner{transition:none;}
+  .card3d:hover .cardInner{transform:none;}
+}
+

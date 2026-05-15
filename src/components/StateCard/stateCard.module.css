@@ -1,0 +1,31 @@
+.card{
+  display:flex;
+  align-items:center;
+  gap:12px;
+  padding:14px 14px;
+  border-radius:18px;
+  background:#fff;
+  border:1px solid rgba(2,6,23,0.06);
+  box-shadow:0 10px 30px rgba(2,6,23,0.04);
+  transition:transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+  position:relative;
+}
+.card:hover{
+  transform:translateY(-3px);
+  box-shadow:0 14px 40px rgba(2,6,23,0.08);
+  border-color:rgba(255,122,24,0.30);
+}
+.card:focus{outline:none;}
+.card:focus-visible{box-shadow:0 0 0 4px rgba(255,122,24,0.25);}
+
+.icon{
+  width:40px; height:40px;
+  border-radius:14px;
+  display:flex; align-items:center; justify-content:center;
+  background:linear-gradient(135deg, rgba(255,122,24,0.18), rgba(11,122,62,0.10));
+  border:1px solid rgba(255,122,24,0.22);
+  font-size:18px;
+}
+
+.name{font-weight:800; color:var(--indigo);}
+

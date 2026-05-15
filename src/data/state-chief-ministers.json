@@ -1,0 +1,3397 @@
+{
+  "west-bengal": {
+    "currentCM": {
+      "name": "Suvendu Adhikari",
+      "designation": "Chief Minister of West Bengal",
+      "party": "Bharatiya Janata Party (BJP)",
+      "period": "2026 - Present",
+      "image": "/images/cm/suvendu-adhikari.jpg",
+      "description": "Suvendu Adhikari is the current Chief Minister of West Bengal and leader of the Bharatiya Janata Party (BJP)."
+    },
+    "cabinet": [
+      { "name": "Firhad Hakim", "ministry": "Urban Development & Municipal Affairs", "party": "AITC", "termStart": "2021" },
+      { "name": "Arup Biswas", "ministry": "Power & Sports", "party": "AITC", "termStart": "2021" },
+      { "name": "Sujit Bose", "ministry": "Fire & Emergency Services", "party": "AITC", "termStart": "2021" },
+      { "name": "Chandrima Bhattacharya", "ministry": "Health & Family Welfare", "party": "AITC", "termStart": "2021" },
+      { "name": "Shobhandeb Chatterjee", "ministry": "Agriculture", "party": "AITC", "termStart": "2021" },
+      { "name": "Moloy Ghatak", "ministry": "Law & Judicial", "party": "AITC", "termStart": "2021" },
+      { "name": "Bratya Basu", "ministry": "School Education", "party": "AITC", "termStart": "2021" }
+    ],
+    "exCMs": [
+      {
+        "name": "Mamata Banerjee",
+        "designation": "Chief Minister of West Bengal",
+        "party": "All India Trinamool Congress",
+        "period": "2021 - 2026",
+        "image": "/images/cm/mamata-banerjee.jpg",
+        "description": "Mamata Banerjee is the current Chief Minister of West Bengal and leader of the All India Trinamool Congress."
+      },
+      {
+        "name": "Buddhadeb Bhattacharjee",
+        "designation": "Former Chief Minister of West Bengal",
+        "party": "Communist Party of India (Marxist)",
+        "period": "2000 - 2011",
+        "image": "/images/ex-cm/buddhadeb.jpg",
+        "description": "Former Chief Minister known for industrial reforms and modernization initiatives."
+      },
+      {
+        "name": "Jyoti Basu",
+        "party": "Communist Party of India (Marxist)",
+        "period": "1977 - 2000",
+        "image": "/images/ex-cm/jyoti-basu.jpg",
+        "description": "One of the longest-serving Chief Ministers in Indian history."
+      },
+      {
+        "name": "Siddhartha Shankar Ray",
+        "party": "Indian National Congress",
+        "period": "1972 - 1977",
+        "image": "/images/ex-cm/siddhartha-ray.jpg",
+        "description": "Former Chief Minister and senior Congress leader."
+      },
+      {
+        "name": "Ajoy Mukherjee",
+        "party": "Bangla Congress",
+        "period": "1967 - 1971",
+        "image": "/images/ex-cm/ajoy-mukherjee.jpg",
+        "description": "Served multiple terms as Chief Minister during coalition governments."
+      },
+      {
+        "name": "Prafulla Chandra Sen",
+        "party": "Indian National Congress",
+        "period": "1962 - 1967",
+        "image": "/images/ex-cm/prafulla-sen.jpg",
+        "description": "Former freedom fighter and Chief Minister of West Bengal."
+      },
+      {
+        "name": "Bidhan Chandra Roy",
+        "party": "Indian National Congress",
+        "period": "1948 - 1962",
+        "image": "/images/ex-cm/bidhan-roy.jpg",
+        "description": "Renowned physician and one of the architects of modern West Bengal."
+      },
+      {
+        "name": "Prafulla Chandra Ghosh",
+        "party": "Indian National Congress",
+        "period": "1947 - 1948",
+        "image": "/images/ex-cm/prafulla-ghosh.jpg",
+        "description": "First Chief Minister of West Bengal after independence."
+      }
+    ]
+  },
+  "maharashtra": {
+    "currentCM": {
+      "name": "Devendra Fadnavis",
+      "designation": "Chief Minister",
+      "stateName": "Maharashtra",
+      "party": "Shiv Sena",
+      "period": "2024 - Present",
+      "description": "Chief Minister of Maharashtra.",
+      "img": null
+    },
+    "cabinet": [
+      { "name": "Ajit Pawar", "ministry": "Finance & Planning", "party": "NCP", "termStart": "2023" },
+      { "name": "Chhagan Bhujbal", "ministry": "Food & Civil Supplies", "party": "NCP", "termStart": "2023" },
+      { "name": "Dilip Walse-Patil", "ministry": "Co-operation", "party": "NCP", "termStart": "2023" },
+      { "name": "Radhakrishna Vikhe Patil", "ministry": "Revenue", "party": "BJP", "termStart": "2022" },
+      { "name": "Sudhir Mungantiwar", "ministry": "Forests & Cultural Affairs", "party": "BJP", "termStart": "2022" },
+      { "name": "Chandrakant Patil", "ministry": "Higher & Technical Education", "party": "BJP", "termStart": "2022" },
+      { "name": "Girish Mahajan", "ministry": "Rural Development", "party": "BJP", "termStart": "2022" }
+    ],
+    "exCMs": [
+      {
+        "name": "Eknath Shinde",
+        "designation": "Chief Minister",
+        "stateName": "Maharashtra",
+        "party": "Shiv Sena",
+        "period": "2024 - Present",
+        "description": "Chief Minister of Maharashtra.",
+        "img": null
+      },
+      {
+        "name": "Devendra Fadnavis",
+        "party": "Bharatiya Janata Party",
+        "period": "2014 - 2019",
+        "img": null,
+        "description": "Former Chief Minister (demo/placeholder)."
+      },
+      {
+        "name": "Vilasrao Deshmukh",
+        "party": "Indian National Congress",
+        "period": "2004 - 2008",
+        "img": null,
+        "description": "Former Chief Minister (demo/placeholder)."
+      },
+      {
+        "name": "Ashok Chavan",
+        "party": "Indian National Congress",
+        "period": "2008 - 2010",
+        "img": null,
+        "description": "Former Chief Minister."
+      },
+      {
+        "name": "Uddhav Thackeray",
+        "party": "Shiv Sena",
+        "period": "2019 - 2022",
+        "img": null,
+        "description": "Former Chief Minister."
+      },
+      {
+        "name": "Devendra Fadnavis",
+        "party": "Bharatiya Janata Party",
+        "period": "2014 - 2019",
+        "img": null,
+        "description": "Former Chief Minister."
+      },
+      {
+        "name": "Prithviraj Chavan",
+        "party": "Indian National Congress",
+        "period": "2010 - 2012",
+        "img": null,
+        "description": "Former Chief Minister."
+      }
+    ]
+  },
+  "tamil-nadu": {
+    "currentCM": {
+      "name": "Chandrasekar Joseph Vijay",
+      "designation": "Chief Minister",
+      "stateName": "Tamil Nadu",
+      "party": "Tamilaga Vettri Kazhagam (TVK)",
+      "description": "Chief Minister of Tamil Nadu .",
+      "img": null
+    },
+    "cabinet": [
+      { "name": "Duraimurugan", "ministry": "Water Resources", "party": "DMK", "termStart": "2021" },
+      { "name": "K. N. Nehru", "ministry": "Municipal Administration", "party": "DMK", "termStart": "2021" },
+      { "name": "I. Periyasamy", "ministry": "Rural Development", "party": "DMK", "termStart": "2021" },
+      { "name": "E. V. Velu", "ministry": "Public Works", "party": "DMK", "termStart": "2021" },
+      { "name": "M. R. K. Panneerselvam", "ministry": "Agriculture", "party": "DMK", "termStart": "2021" },
+      { "name": "K. Ponmudy", "ministry": "Higher Education", "party": "DMK", "termStart": "2021" },
+      { "name": "V. Senthil Balaji", "ministry": "Electricity & Prohibition", "party": "DMK", "termStart": "2021" }
+    ],
+    "exCMs": [
+        {
+            "name": "M.K. Stalin",
+            "designation": "Chief Minister",
+            "stateName": "Tamil Nadu",
+            "party": "Dravida Munnetra Kazhagam (DMK)",
+            "period": "2021 - 2026",
+            "description": "Current Chief Minister of Tamil Nadu and leader of the DMK.",
+            "img": null
+        },
+        {
+            "name": "Edappadi K. Palaniswami",
+            "party": "AIADMK",
+            "period": "2017 - 2021",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Edappadi_K._Palaniswami.jpg",
+            "description":
+               "Former Chief Minister of Tamil Nadu from AIADMK."
+        },
+
+        {
+     
+          "name": "O. Panneerselvam",
+          "party": "AIADMK",
+          "period": "2016 - 2017",
+          "image":
+            "https://upload.wikimedia.org/wikipedia/commons/4/47/O._Panneerselvam.jpg",
+          "description":
+            "Served multiple terms as Chief Minister of Tamil Nadu."
+        },
+
+        {
+          "name": "J. Jayalalithaa",
+          "party": "AIADMK",
+          "period": "2015 - 2016",
+          "image":
+            "https://upload.wikimedia.org/wikipedia/commons/2/24/Jayalalithaa_at_the_Elephant-8.jpg",
+          "description":
+            "One of the most influential leaders of Tamil Nadu politics."
+        },
+
+        {
+
+          "name": "M. Karunanidhi",
+          "party": "DMK",
+          "period": "2006 - 2011",
+          "image":
+            "https://upload.wikimedia.org/wikipedia/commons/8/8d/M._Karunanidhi.jpg",
+          "description":
+            "Veteran DMK leader and five-time Chief Minister of Tamil Nadu."
+        },
+
+        {
+
+          "name": "M. G. Ramachandran",
+          "party": "AIADMK",
+          "period": "1977 - 1987",
+          "image":
+            "https://upload.wikimedia.org/wikipedia/commons/1/12/MGR.jpg",
+          "description":
+            "Popular actor-politician and founder of AIADMK."
+        },
+
+        {
+
+         "name": "K. Kamaraj",
+         "party": "Indian National Congress",
+         "period": "1954 - 1963",
+         "image":
+        "https://upload.wikimedia.org/wikipedia/commons/e/e5/K._Kamaraj.jpg",
+         "description":
+           "Known for major educational and infrastructure reforms."
+        }
+      ]
+    },
+    "kerala": {
+        "currentCM": {
+        "name": "xyz",
+        "designation": "Chief Minister",
+        "stateName": "Kerala",
+        "party":"Congress-led UDF alliance",
+        "period": "2026 - Present",
+        "description": "Chief Minister of Kerala and leader of the Kerala"
+        },
+        "exCMs": [
+            {
+                "name": "Pinarayi Vijayan",
+                "party": "Communist Party of India (Marxist)",
+                "period": "2016 - 2026",
+                "image": null,
+                "description": "Current Chief Minister of Kerala and leader of the Communist Party of India (Marxist)."
+            },
+            {
+                "name": "Oommen Chandy",
+                "party": "Indian National Congress",
+                "period": "2011 - 2016",
+                "image": null,
+                "description": "Former Chief Minister of Kerala from the Indian National Congress."
+            },
+            {
+                "name": "V.S. Achuthanandan",
+                "party": "Communist Party of India (Marxist)",
+                "period": "2006 - 2011",
+                "image": null,
+                "description": "Former Chief Minister of Kerala from the Communist Party of India (Marxist)."
+            },
+            {
+                "name": "A.K. Antony",
+                "party": "Indian National Congress",
+                "period": "2001 - 2004",
+                "image": null,
+                "description": "Former Chief Minister of Kerala from the Indian National Congress."
+            },
+            {
+                "name": "E.K. Nayanar",
+                "party": "Communist Party of India (Marxist)",
+                "period": "1996 - 2001",
+                "image": null,
+                "description": "Former Chief Minister of Kerala from the Communist Party of India (Marxist)."
+            },
+            {
+                "name": "K. Karunakaran",
+                "party": "Indian National Congress",
+                "period": "1982 - 1987",
+                "image": null,
+                "description": "Former Chief Minister of Kerala from the Indian National Congress."
+            },
+            {
+                "name": "P.K. Vasudevan Nair",
+                "party": "Communist Party of India",
+                "period": "1978 - 1979",    
+                "image": null,
+                "description": "Former Chief Minister of Kerala from the Communist Party of India."
+            },
+            {
+                "name": "C. Achutha Menon",
+                "party": "Communist Party of India",
+                "period": "1969 - 1970",    
+                "image": null,
+                "description": "Former Chief Minister of Kerala from the Communist Party of India."
+            },
+            {
+                "name": "E.M.S. Namboodiripad", 
+                "party": "Communist Party of India (Marxist)",
+                "period": "1957 - 1959",
+                "image": null,
+                "description": "First Chief Minister of Kerala and a prominent communist leader."
+            }
+        ]
+    },
+    "andhra-pradesh": {
+      "currentCM": {
+        "name": "N. Chandrababu Naidu",
+        "designation": "Chief Minister",
+        "stateName": "Andhra Pradesh",
+        "party":"Telugu Desam Party (TDP)",
+        "period": "2024 - Present",
+        "description": "Chief Minister of Andhra Pradesh and leader of the Telugu Desam Party (TDP)"
+        },
+        "exCMs": [
+            {
+                "name": "Y. S. Jagan Mohan Reddy",
+                "party": "YSR Congress Party",
+                "period": "2019 - 2024",
+                "image": null,
+                "description": "Current Chief Minister of Andhra Pradesh and leader of the YSR Congress Party."
+            },
+            {
+                "name": "N. Chandrababu Naidu",
+                "party": "Telugu Desam Party (TDP)",
+                "period": "2014 - 2019",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh and leader of the Telugu Desam Party (TDP)."
+            },
+            {
+                "name": "President’s Rule",
+                "party": "N/A",
+                "period": "2014 - ",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh during president's rule."
+            },
+            {
+                "name": "N. Kiran Kumar Reddy",
+                "party": "Indian National Congress",
+                "period": "2010 - 2014",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Indian National Congress."
+            },
+            {
+                "name": "Konijeti Rosaiahr",
+                "party": "Indian National Congress",
+                "period": "2009-2010",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Indian National Congress."
+            },
+            {
+                "name": "Y. S. Rajasekhara Reddy",
+                "party": "Indian National Congress",
+                "period": "2004-2009",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Indian National Congress."
+            },
+            {
+                "name": "N. Chandrababu Naidu",
+                "party": "Telugu Desam Party",
+                "period": "1995-2004",    
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Telugu Desam Party."
+            },
+            {
+                "name": "N. T. Rama Rao",
+                "party": "Telugu Desam Party",
+                "period": "1994-1995",    
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Telugu Desam Party."
+            },
+            {
+                "name": "Kotla Vijaya Bhaskara Reddy", 
+                "party": "Indian National Congress",
+                "period": "1992-1994",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Indian National Congress."
+            },
+            {
+                "name": "Nedurumalli Janardhana Reddy",
+                "party": "Indian National Congress",
+                "period": "1990-1992",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Indian National Congress."
+            },
+            {
+                "name": "Marri Chenna Reddy",
+                "party": "Indian National Congress",
+                "period": "1989-1990",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Indian National Congress."
+            },
+            {
+                "name": "N. T. Rama Rao",
+                "party": "Telugu Desam Party",
+                "period": "1984-1989",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Telugu Desam Party."
+            },
+            {
+                "name": "Nadendla Bhaskara Rao",
+                "party": "Telugu Desam Party",
+                "period": "1984-1984",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Telugu Desam Party."
+            },
+            {
+                "name": "N. T. Rama Rao",
+                "party": "Telugu Desam Party",
+                "period": "1983-1984",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Telugu Desam Party."
+            },
+            {
+                "name": "Kotla Vijaya Bhaskara Reddy",
+                "party": "Indian National Congress",
+                "period": "1982-1983",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Indian National Congress."
+            },
+            {
+                "name": "Bhavanam Venkatarami Reddy",
+                "party": "Indian National Congress",
+                "period": "1982-1982",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Indian National Congress."
+            },
+            {
+                "name": "T. Anjaiah",
+                "party": "Indian National Congress",
+                "period": "1980-1982",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Indian National Congress."
+            },
+            {
+                "name": "Marri Chenna Reddy",
+                "party": "Indian National Congress",
+                "period": "1978-1980",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Indian National Congress."
+            },
+            {
+                "name": "President’s Rule",
+                "party": "N/A",
+                "period": "1977-1978",
+                "image": null,
+                 "description": "Former Chief Minister of Andhra Pradesh during president's rule."
+            },
+            {
+                "name": "P. V. Narasimha Rao",
+                "party": "Indian National Congress",
+                "period": "1971-1973",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Indian National Congress."
+            },
+            {
+                "name": "Kasu Brahmananda Reddy",
+                "party": "Indian National Congress",
+                "period": "1964-1971",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Indian National Congress."
+            },
+            {
+                "name": "Neelam Sanjiva Reddy",
+                "party": "Indian National Congress",
+                "period": "1962-1964",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Indian National Congress."
+            },
+            {
+                "name": "Tanguturi Prakasam",
+                "party": "Indian National Congress",
+                "period": "1956-1959",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Indian National Congress."
+            },
+            {
+                "name": "Neelam Sanjiva Reddy",
+                "party": "Indian National Congress",
+                "period": "1955-1956",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Indian National Congress."
+            },
+            {
+                "name": "Tanguturi Prakasam",
+                "party": "Indian National Congress",
+                "period": "1953-1955",
+                "image": null,
+                "description": "Former Chief Minister of Andhra Pradesh from the Indian National Congress."
+            }
+        ]
+    },
+    "arunachal-pradesh": {
+        "currentCM": {
+            "name": "Pema Khandu",
+            "designation": "Chief Minister",
+            "stateName": "Arunachal Pradesh",
+            "party":"Bharatiya Janata Party (BJP)",
+            "period": "2016 - Present",
+            "description": "Chief Minister of Arunachal Pradesh and leader of the Bharatiya Janata Party (BJP)."
+        },
+        "exCMs": [
+            {
+              "name": "Prem Khandu Thungan",
+              "designation": "Chief Minister",
+              "stateName": "Arunachal Pradesh",
+              "party": "Indian National Congress",
+              "period": "13 Aug 1975 - 18 Sep 1979",
+              "image": null,
+              "description": "Former Chief Minister of Arunachal Pradesh."
+            },
+            {
+              "name": "Tomo Riba",
+              "designation": "Chief Minister",
+              "stateName": "Arunachal Pradesh",
+              "party": "People’s Party of Arunachal",
+              "period": "18 Sep 1979 - 03 Nov 1979",
+              "image": null,
+              "description": "Former Chief Minister of Arunachal Pradesh."
+            },
+            {
+              "name": "Gegong Apang",
+              "designation": "Chief Minister",
+              "stateName": "Arunachal Pradesh",
+              "party": "Indian National Congress",
+              "period": "18 Jan 1980 - 19 Jan 1999",
+              "image": null,
+              "description": "Former Chief Minister of Arunachal Pradesh."
+            },
+            {
+              "name": "Mukut Mithi",
+              "designation": "Chief Minister",
+              "stateName": "Arunachal Pradesh",
+              "party": "Arunachal Congress",
+              "period": "19 Jan 1999 - 03 Aug 2003",
+              "image": null,
+              "description": "Former Chief Minister of Arunachal Pradesh."
+            },
+            {
+              "name": "Gegong Apang",
+              "designation": "Chief Minister",
+              "stateName": "Arunachal Pradesh",
+              "party": "Indian National Congress",
+              "period": "03 Aug 2003 - 09 Apr 2007",
+              "image": null,
+              "description": "Former Chief Minister of Arunachal Pradesh."
+            },
+            {
+              "name": "Dorjee Khandu",
+              "designation": "Chief Minister",
+              "stateName": "Arunachal Pradesh",
+              "party": "Indian National Congress",
+              "period": "09 Apr 2007 - 30 Apr 2011",
+              "image": null,
+              "description": "Former Chief Minister of Arunachal Pradesh."
+            },
+            {
+              "name": "Jarbom Gamlin",
+              "designation": "Chief Minister",
+              "stateName": "Arunachal Pradesh",
+              "party": "Indian National Congress",
+              "period": "01 May 2011 - 01 Nov 2011",
+              "image": null,
+              "description": "Former Chief Minister of Arunachal Pradesh."
+            },
+            {
+              "name": "Nabam Tuki",
+              "designation": "Chief Minister",
+              "stateName": "Arunachal Pradesh",
+              "party": "Indian National Congress",
+              "period": "01 Nov 2011 - 26 Jan 2016",
+              "image": null,
+              "description": "Former Chief Minister of Arunachal Pradesh."
+            },
+            {
+              "name": "Kalikho Pul",
+              "designation": "Chief Minister",
+              "stateName": "Arunachal Pradesh",
+              "party": "People’s Party of Arunachal",
+              "period": "19 Feb 2016 - 13 Jul 2016",
+              "image": null,
+              "description": "Former Chief Minister of Arunachal Pradesh."
+            },
+            {
+              "name": "Pema Khandu",
+              "designation": "Chief Minister",
+              "stateName": "Arunachal Pradesh",
+              "party": "Bharatiya Janata Party (BJP)",
+              "period": "17 Jul 2016 - Present",
+              "image": null,
+              "description": "Current Chief Minister of Arunachal Pradesh."
+            }
+        ]
+    },
+    "assam": {
+        "currentCM": {
+            "name": "Himanta Biswa Sarma",
+            "designation": "Chief Minister",
+            "stateName": "Assam",
+            "party":"Bharatiya Janata Party (BJP)",
+            "period": "2021 - Present",
+            "description": "Chief Minister of Assam and leader of the Bharatiya Janata Party (BJP)."
+        },
+        "exCMs": [
+            {
+                "name": "Sarbananda Sonowal",
+                "party": "Bharatiya Janata Party (BJP)",
+                "period": "2016 - 2021",
+                "image": null,
+                "description": "Former Chief Minister of Assam and leader of the Bharatiya Janata Party (BJP)."
+            },
+            {
+                "name": "Tarun Gogoi",
+                "party": "Indian National Congress",
+                "period": "2001 - 2016",
+                "image": null,
+                "description": "Former Chief Minister of Assam and leader of the Indian National Congress."
+            },
+            {
+                "name": "Prafulla Kumar Mahanta",
+                "party": "Asom Gana Parishad (AGP)",
+                "period": "1985 - 1990, 1996 - 2001",
+                "image": null,
+                "description": "Former Chief Minister of Assam and leader of the Asom Gana Parishad (AGP)."
+            },
+            {
+                "name": "Hiteswar Saikia",
+                "party": "Indian National Congress",
+                "period": "1991 - 1996",
+                "image": null,
+                "description": "Former Chief Minister of Assam and leader of the Indian National Congress."
+            },
+            {
+                "name": "Jogendra Nath Hazarika",
+                "party": null,
+                "period": null,
+                "image": null,
+                "description": null
+            }
+        ]
+     },
+     "bihar": {
+        "currentCM": {
+            "name": "Nitish Kumar",
+            "designation": "Chief Minister",
+            "stateName": "Bihar",
+            "party":"Janata Dal (United) JD(U)",
+            "period": "2005 - 2020, 2020 - Present",
+            "description": "Chief Minister of Bihar and leader of the Janata Dal (United) (JD(U))."
+        },
+        
+      "exCMs":[
+          {
+            "name": "Sri Krishna Sinha",
+            "party": "Indian National Congress (INC)",
+            "period": "2 Apr 1946 – 31 Jan 1961",
+            "image": null,
+            "description": "Chief Minister of Bihar (INC)."
+          },
+          {
+            "name": "Deep Narayan Singh",
+            "party": "Indian National Congress (INC)",
+            "period": "1 Feb 1961 – 18 Feb 1961",
+            "image": null,
+            "description": "Chief Minister of Bihar (INC)."
+          },
+          {
+            "name": "Binodanand Jha",
+            "party": "Indian National Congress (INC)",
+            "period": "18 Feb 1961 – 2 Oct 1963",
+            "image": null,
+            "description": "Chief Minister of Bihar (INC)."
+          },
+          {
+            "name": "Krishna Ballabh Sahay",
+            "party": "Indian National Congress (INC)",
+            "period": "2 Oct 1963 – 5 Mar 1967",
+            "image": null,
+            "description": "Chief Minister of Bihar (INC)."
+          },
+          {
+            "name": "Mahamaya Prasad Sinha",
+            "party": "Jan Kranti Dal",
+            "period": "5 Mar 1967 – 28 Jan 1968",
+            "image": null,
+            "description": "Chief Minister of Bihar (Jan Kranti Dal)."
+          },
+          {
+            "name": "Satish Prasad Singh",
+            "party": "Shoshit Samaj Dal",
+            "period": "28 Jan 1968 – 1 Feb 1968",
+            "image": null,
+            "description": "Chief Minister of Bihar (Shoshit Samaj Dal)."
+          },
+          {
+            "name": "Bindeshwari Prasad Mandal",
+            "party": "Shoshit Dal",
+            "period": "1 Feb 1968 – 22 Mar 1968",
+            "image": null,
+            "description": "Chief Minister of Bihar (Shoshit Dal)."
+          },
+          {
+            "name": "Bhola Paswan Shastri",
+            "party": "Samyukta Socialist Party",
+            "period": "22 Mar 1968 – 29 Jun 1968",
+            "image": null,
+            "description": "Chief Minister of Bihar (Samyukta Socialist Party)."
+          },
+          {
+            "name": "Harihar Singh",
+            "party": "Indian National Congress (INC)",
+            "period": "26 Feb 1969 – 22 Jun 1969",
+            "image": null,
+            "description": "Chief Minister of Bihar (INC)."
+          },
+          {
+            "name": "Bhola Paswan Shastri",
+            "party": "Indian National Congress (Organisation)",
+            "period": "22 Jun 1969 – 4 Jul 1969",
+            "image": null,
+            "description": "Chief Minister of Bihar (Indian National Congress (Organisation))."
+          },
+          {
+            "name": "Daroga Prasad Rai",
+            "party": "Indian National Congress (INC)",
+            "period": "16 Feb 1970 – 22 Dec 1970",
+            "image": null,
+            "description": "Chief Minister of Bihar (INC)."
+          },
+          {
+            "name": "Karpoori Thakur",
+            "party": "Samyukta Socialist Party",
+            "period": "22 Dec 1970 – 2 Jun 1971",
+            "image": null,
+            "description": "Chief Minister of Bihar (Samyukta Socialist Party)."
+          },
+          {
+            "name": "Bhola Paswan Shastri",
+            "party": "Indian National Congress (INC)",
+            "period": "2 Jun 1971 – 9 Jan 1972",
+            "image": null,
+            "description": "Chief Minister of Bihar (INC)."
+          },
+          {
+            "name": "Kedar Pandey",
+            "party": "Indian National Congress (INC)",
+            "period": "19 Mar 1972 – 2 Jul 1973",
+            "image": null,
+            "description": "Chief Minister of Bihar (INC)."
+          },
+          {
+            "name": "Abdul Ghafoor",
+            "party": "Indian National Congress (INC)",
+            "period": "2 Jul 1973 – 11 Apr 1975",
+            "image": null,
+            "description": "Chief Minister of Bihar (INC)."
+          },
+          {
+            "name": "Jagannath Mishra",
+            "party": "Indian National Congress (INC)",
+            "period": "11 Apr 1975 – 30 Apr 1977",
+            "image": null,
+            "description": "Chief Minister of Bihar (INC)."
+          },
+          {
+            "name": "Karpoori Thakur",
+            "party": "Janata Party",
+            "period": "24 Jun 1977 – 21 Apr 1979",
+            "image": null,
+            "description": "Chief Minister of Bihar (Janata Party)."
+          },
+          {
+            "name": "Ram Sundar Das",
+            "party": "Janata Party",
+            "period": "21 Apr 1979 – 17 Feb 1980",
+            "image": null,
+            "description": "Chief Minister of Bihar (Janata Party)."
+          },
+          {
+            "name": "Jagannath Mishra",
+            "party": "Indian National Congress (INC)",
+            "period": "8 Jun 1980 – 14 Aug 1983",
+            "image": null,
+            "description": "Chief Minister of Bihar (INC)."
+          },
+          {
+            "name": "Chandrashekhar Singh",
+            "party": "Indian National Congress (INC)",
+            "period": "14 Aug 1983 – 12 Mar 1985",
+            "image": null,
+            "description": "Chief Minister of Bihar (INC)."
+          },
+          {
+            "name": "Bindeshwari Dubey",
+            "party": "Indian National Congress (INC)",
+            "period": "12 Mar 1985 – 13 Feb 1988",
+            "image": null,
+            "description": "Chief Minister of Bihar (INC)."
+          },
+          {
+            "name": "Bhagwat Jha Azad",
+            "party": "Indian National Congress (INC)",
+            "period": "14 Feb 1988 – 10 Mar 1989",
+            "image": null,
+            "description": "Chief Minister of Bihar (INC)."
+          },
+          {
+            "name": "Satyendra Narayan Sinha",
+            "party": "Indian National Congress (INC)",
+            "period": "11 Mar 1989 – 6 Dec 1989",
+            "image": null,
+            "description": "Chief Minister of Bihar (INC)."
+          },
+          {
+            "name": "Jagannath Mishra",
+            "party": "Indian National Congress (INC)",
+            "period": "6 Dec 1989 – 10 Mar 1990",
+            "image": null,
+            "description": "Chief Minister of Bihar (INC)."
+          },
+          {
+            "name": "Lalu Prasad Yadav",
+            "party": "Janata Dal",
+            "period": "10 Mar 1990 – 28 Mar 1995",
+            "image": null,
+            "description": "Chief Minister of Bihar (Janata Dal)."
+          },
+          {
+            "name": "Lalu Prasad Yadav",
+            "party": "Janata Dal / Rashtriya Janata Dal (RJD)",
+            "period": "4 Apr 1995 – 25 Jul 1997",
+            "image": null,
+            "description": "Chief Minister of Bihar (RJD/Janata Dal)."
+          },
+          {
+            "name": "Rabri Devi",
+            "party": "Rashtriya Janata Dal (RJD)",
+            "period": "25 Jul 1997 – 11 Feb 1999",
+            "image": null,
+            "description": "Chief Minister of Bihar (RJD)."
+          },
+          {
+            "name": "Rabri Devi",
+            "party": "Rashtriya Janata Dal (RJD)",
+            "period": "9 Mar 1999 – 2 Mar 2000",
+            "image": null,
+            "description": "Chief Minister of Bihar (RJD)."
+          },
+          {
+            "name": "Nitish Kumar",
+            "party": "Samata Party",
+            "period": "3 Mar 2000 – 10 Mar 2000",
+            "image": null,
+            "description": "Chief Minister of Bihar (Samata Party)."
+          },
+          {
+            "name": "Rabri Devi",
+            "party": "Rashtriya Janata Dal (RJD)",
+            "period": "11 Mar 2000 – 6 Mar 2005",
+            "image": null,
+            "description": "Chief Minister of Bihar (RJD)."
+          },
+          {
+            "name": "Nitish Kumar",
+            "party": "Janata Dal (United) – JD(U)",
+            "period": "24 Nov 2005 – Present (with different terms)",
+            "image": null,
+            "description": "Chief Minister of Bihar (JD(U))."
+          }
+      ]
+  },
+  "chhattisgarh": {
+    "currentCM": {
+      "name": "Vishnu Deo Sai",
+      "designation": "Chief Minister",
+      "stateName": "Chhattisgarh",
+      "party": "Bharatiya Janata Party (BJP)",
+      "period": "2023 - Present",
+      "description": "Chief Minister of Chhattisgarh and leader of the Bharatiya Janata Party (BJP).",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Ajit Jogi",
+        "designation": "Chief Minister",
+        "stateName": "Chhattisgarh",
+        "party": "Indian National Congress (INC)",
+        "period": "2000 - 2003",
+        "description": "Former Chief Minister of Chhattisgarh from the Indian National Congress.",
+        "img": null
+      },
+      {
+        "name": "Raman Singh",
+        "designation": "Chief Minister",
+        "stateName": "Chhattisgarh",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2003 - 2018",
+        "description": "Former Chief Minister of Chhattisgarh from the Bharatiya Janata Party (BJP).",
+        "img": null
+      },
+      {
+        "name": "Bhupesh Baghel",
+        "designation": "Chief Minister",
+        "stateName": "Chhattisgarh",
+        "party": "Indian National Congress (INC)",
+        "period": "2018 - 2023",
+        "description": "Former Chief Minister of Chhattisgarh from the Indian National Congress.",
+        "img": null
+      }
+    ]
+  },
+  "goa": {
+    "currentCM": {
+      "name": "Pramod Sawant",
+      "designation": "Chief Minister",
+      "stateName": "Goa",
+      "party": "Bharatiya Janata Party (BJP)",
+      "period": "2019 - Present",
+      "description": "Chief Minister of Goa and leader of the Bharatiya Janata Party (BJP).",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Dayanand Bandodkar",
+        "designation": "Chief Minister",
+        "stateName": "Goa",
+        "party": "Maharashtrawadi Gomantak Party",
+        "period": "20 Dec 1963 - 12 Aug 1973",
+        "description": "Former Chief Minister of Goa from the Maharashtrawadi Gomantak Party.",
+        "img": null
+      },
+      {
+        "name": "Shashikala Kakodkar",
+        "designation": "Chief Minister",
+        "stateName": "Goa",
+        "party": "Maharashtrawadi Gomantak Party",
+        "period": "12 Aug 1973 - 27 Apr 1979",
+        "description": "Former Chief Minister of Goa from the Maharashtrawadi Gomantak Party.",
+        "img": null
+      },
+      {
+        "name": "Pratapsingh Rane",
+        "designation": "Chief Minister",
+        "stateName": "Goa",
+        "party": "Indian National Congress",
+        "period": "18 Jun 1980 - 9 Mar 1990",
+        "description": "Former Chief Minister of Goa from the Indian National Congress.",
+        "img": null
+      },
+      {
+        "name": "Dr. Luis Proto Barbosa",
+        "designation": "Chief Minister",
+        "stateName": "Goa",
+        "party": "Indian National Congress",
+        "period": "18 Jul 1990 - 14 Mar 1991",
+        "description": "Former Chief Minister of Goa from the Indian National Congress.",
+        "img": null
+      },
+      {
+        "name": "Ravi Naik",
+        "designation": "Chief Minister",
+        "stateName": "Goa",
+        "party": "Indian National Congress",
+        "period": "15 Mar 1991 - 26 Oct 1999",
+        "description": "Former Chief Minister of Goa from the Indian National Congress.",
+        "img": null
+      },
+      {
+        "name": "Luizinho Faleiro",
+        "designation": "Chief Minister",
+        "stateName": "Goa",
+        "party": "Indian National Congress",
+        "period": "27 Oct 1999 - 24 Nov 1999",
+        "description": "Former Chief Minister of Goa from the Indian National Congress.",
+        "img": null
+      },
+      {
+        "name": "Francisco Sardinha",
+        "designation": "Chief Minister",
+        "stateName": "Goa",
+        "party": "Indian National Congress",
+        "period": "24 Nov 1999 - 24 Oct 2000",
+        "description": "Former Chief Minister of Goa from the Indian National Congress.",
+        "img": null
+      },
+      {
+        "name": "Manohar Parrikar",
+        "designation": "Chief Minister",
+        "stateName": "Goa",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "24 Oct 2000 - 2 Feb 2005",
+        "description": "Former Chief Minister of Goa from the Bharatiya Janata Party (BJP).",
+        "img": null
+      },
+      {
+        "name": "Pratapsingh Rane",
+        "designation": "Chief Minister",
+        "stateName": "Goa",
+        "party": "Indian National Congress",
+        "period": "2 Feb 2005 - 7 Jun 2007",
+        "description": "Former Chief Minister of Goa from the Indian National Congress.",
+        "img": null
+      },
+      {
+        "name": "Digambar Kamat",
+        "designation": "Chief Minister",
+        "stateName": "Goa",
+        "party": "Indian National Congress",
+        "period": "8 Jun 2007 - 8 Mar 2012",
+        "description": "Former Chief Minister of Goa from the Indian National Congress.",
+        "img": null
+      },
+      {
+        "name": "Manohar Parrikar",
+        "designation": "Chief Minister",
+        "stateName": "Goa",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "9 Mar 2012 - 8 Nov 2014",
+        "description": "Former Chief Minister of Goa from the Bharatiya Janata Party (BJP).",
+        "img": null
+      },
+      {
+        "name": "Laxmikant Parsekar",
+        "designation": "Chief Minister",
+        "stateName": "Goa",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "8 Nov 2014 - 14 Mar 2017",
+        "description": "Former Chief Minister of Goa from the Bharatiya Janata Party (BJP).",
+        "img": null
+      },
+      {
+        "name": "Manohar Parrikar",
+        "designation": "Chief Minister",
+        "stateName": "Goa",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "14 Mar 2017 - 17 Mar 2019",
+        "description": "Former Chief Minister of Goa from the Bharatiya Janata Party (BJP).",
+        "img": null
+      },
+      {
+        "name": "Kailash Govind Sardesai",
+        "designation": "Chief Minister",
+        "stateName": "Goa",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "19 Mar 2019 - Present",
+        "description": "Current Chief Minister of Goa from the Bharatiya Janata Party (BJP).",
+        "img": null
+      }
+    ]
+  },
+"gujarat": {
+    "currentCM": {
+      "name": "Bhupendra Patel",
+      "designation": "Chief Minister",
+      "stateName": "Gujarat",
+      "party": "Bharatiya Janata Party (BJP)",
+      "period": "2021 - Present",
+      "description": "Chief Minister of Gujarat and leader of the Bharatiya Janata Party (BJP).",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Vijay Rupani",
+        "designation": "Chief Minister",
+        "stateName": "Gujarat",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2016 - 2021",
+        "description": "Former Chief Minister of Gujarat from the Bharatiya Janata Party (BJP).",
+        "img": null
+      },
+      {
+        "name": "Anandiben Patel",
+        "designation": "Chief Minister",
+        "stateName": "Gujarat",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2014 - 2016",
+        "description": "Former Chief Minister of Gujarat from the Bharatiya Janata Party (BJP).",
+        "img": null
+      },
+      {
+        "name": "Narendra Modi",
+        "designation": "Chief Minister",
+        "stateName": "Gujarat",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2001 - 2014",
+        "description": "Former Chief Minister of Gujarat from the Bharatiya Janata Party (BJP) and current Prime Minister of India.",
+        "img": null
+      },
+      {
+        "name": "Keshubhai Patel",
+        "designation": "Chief Minister",
+        "stateName": "Gujarat",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "1995 - 1996, 1998 - 2001",
+        "description": "Former Chief Minister of Gujarat from the Bharatiya Janata Party (BJP).",
+        "img": null
+      },
+      {
+        "name": "Dilip Parikh",
+        "designation": "Chief Minister",
+        "stateName": "Gujarat",
+        "party": "Rashtriya Janata Party (RJP)",
+        "period": "1997 - 1998",
+        "description": "Former Chief Minister of Gujarat from the Rashtriya Janata Party (RJP).",
+        "img": null
+      },
+      {
+        "name": "Shankersinh Vaghela",
+        "designation": "Chief Minister",
+        "stateName": "Gujarat",
+        "party": "Indian National Congress (INC)",
+        "period": "1996 - 1998",
+        "description": "Former Chief Minister of Gujarat from the Indian National Congress (INC).",
+        "img": null
+      },
+      {
+        "name": "Suresh Mehta",
+        "designation": "Chief Minister",
+        "stateName": "Gujarat",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "1996 - 1998",
+        "description": "Former Chief Minister of Gujarat from the Bharatiya Janata Party (BJP).",
+        "img": null
+      },
+      {
+        "name": "Chimanbhai Patel",
+        "designation": "Chief Minister",
+        "stateName": "Gujarat",
+        "party": "Indian National Congress (INC)",
+        "period": "1973 - 1974, 1980 - 1985",
+        "description": "Former Chief Minister of Gujarat from the Indian National Congress (INC).",
+        "img": null
+      },
+      {
+        "name": "Madhav Singh Solanki",
+        "designation": "Chief Minister",
+        "stateName": "Gujarat",
+        "party": "Indian National Congress (INC)",
+        "period": "1985 - 1989, 1989 - 1990, 1991 - 1995",
+        "description": "Former Chief Minister of Gujarat from the Indian National Congress (INC).",
+        "img": null
+      },
+      {
+        "name": "Babubhai J. Patel",
+        "designation": "Chief Minister",
+        "stateName": "Gujarat",
+        "party": "Janata Party",
+        "period": "1975 - 1976, 1977 - 1980",
+        "description": "Former Chief Minister of Gujarat from the Janata Party.",
+        "img": null
+      },
+      {
+        "name": "K.K. Das",
+        "designation": "Chief Minister",
+        "stateName": "Gujarat",
+        "party": null,
+        "period": "1973 - 1973",
+        "description": "Former Chief Minister of Gujarat during President's Rule.",
+        "img": null
+      },
+      {
+        "name": "Dinesh Singh",
+        "designation": "Chief Minister",
+        "stateName": "Gujarat",
+        "party": null,
+        "period": "1973 - 1973",
+        "description": "Former Chief Minister of Gujarat during President's Rule.",
+        "img": null
+      },
+      {
+        "name": "Chimanbhai Patel",
+        "designation": "Chief Minister",
+        "stateName": "Gujarat",
+        "party": "Indian National Congress (INC)",
+        "period": "1972 - 1973",
+        "description": "Former Chief Minister of Gujarat from the Indian National Congress (INC).",
+        "img": null
+      },
+      {
+        "name": "Hitendra K. Desai",
+        "designation": "Chief Minister",
+        "stateName": "Gujarat",
+        "party": "Indian National Congress (INC)",
+        "period": "1965 - 1971",
+        "description": "Former Chief Minister of Gujarat from the Indian National Congress (INC).",
+        "img": null
+      }
+    ]
+  },
+    "haryana":{
+    "currentCM": {
+      "name": "Nayab Singh Saini",
+      "designation": "Chief Minister",
+      "stateName": "Haryana",
+      "party": "Bharatiya Janata Party (BJP)",
+      "period": "2024 - Present",
+      "description": "Chief Minister of Haryana and leader of the Bharatiya Janata Party (BJP).",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Manohar Lal Khattar",
+        "designation": "Chief Minister",
+        "stateName": "Haryana",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2014 - 2024",
+        "description": "Former Chief Minister of Haryana from the Bharatiya Janata Party (BJP).",
+        "img": null
+      },
+      {
+        "name": "Bhupinder Singh Hooda",
+        "designation": "Chief Minister",
+        "stateName": "Haryana",
+        "party": "Indian National Congress",
+        "period": "2005 - 2014",
+        "description": "Former Chief Minister of Haryana from the Indian National Congress.",
+        "img": null
+      },
+      {
+        "name": "Bhagwat Dayal Sharma",
+        "designation": "Chief Minister",
+        "stateName": "Haryana",
+        "party": "Indian National Congress",
+        "period": "1966 - 1967",
+        "description": "Former Chief Minister of Haryana.",
+        "img": null
+      },
+      {
+        "name": "Rao Birender Singh",
+        "designation": "Chief Minister",
+        "stateName": "Haryana",
+        "party": "Vishal Haryana Party",
+        "period": "1967",
+        "description": "Former Chief Minister of Haryana.",
+        "img": null
+      },
+      {
+        "name": "Bansi Lal",
+        "designation": "Chief Minister",
+        "stateName": "Haryana",
+        "party": "Indian National Congress",
+        "period": "1968 - 1975, 1985 - 1987, 1996 - 1999",
+        "description": "Former Chief Minister of Haryana.",
+        "img": null
+      },
+      {
+        "name": "Banarsi Das Gupta",
+        "designation": "Chief Minister",
+        "stateName": "Haryana",
+        "party": "Indian National Congress",
+        "period": "1975 - 1977, 1990",
+        "description": "Former Chief Minister of Haryana.",
+        "img": null
+      },
+      {
+        "name": "Devi Lal",
+        "designation": "Chief Minister",
+        "stateName": "Haryana",
+        "party": "Janata Party / Lok Dal",
+        "period": "1977 - 1979, 1987 - 1989",
+        "description": "Former Chief Minister of Haryana.",
+        "img": null
+      },
+      {
+        "name": "Bhajan Lal",
+        "designation": "Chief Minister",
+        "stateName": "Haryana",
+        "party": "Indian National Congress",
+        "period": "1979 - 1986, 1991 - 1996",
+        "description": "Former Chief Minister of Haryana.",
+        "img": null
+      },
+      {
+        "name": "Hukam Singh",
+        "designation": "Chief Minister",
+        "stateName": "Haryana",
+        "party": "Janata Dal",
+        "period": "1990 - 1991",
+        "description": "Former Chief Minister of Haryana.",
+        "img": null
+      },
+      {
+        "name": "Om Prakash Chautala",
+        "designation": "Chief Minister",
+        "stateName": "Haryana",
+        "party": "Indian National Lok Dal",
+        "period": "1989 - 1991, 1999 - 2005",
+        "description": "Former Chief Minister of Haryana.",
+        "img": null
+      }
+    ]
+
+  },
+  "himachal-pradesh":{
+    "currentCM": {
+      "name": "Sukhvinder Singh Sukhu",
+      "designation": "Chief Minister",
+      "stateName": "Himachal Pradesh",
+      "party": "Indian National Congress (INC)",
+      "period": "2022 - Present",
+      "description": "Current Chief Minister of Himachal Pradesh.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Jai Ram Thakur",
+        "designation": "Chief Minister",
+        "stateName": "Himachal Pradesh",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2017 - 2022",
+        "description": "Former Chief Minister of Himachal Pradesh (2017 - 2022).",
+        "img": null
+      },
+      {
+        "name": "Prem Kumar Dhumal",
+        "designation": "Chief Minister",
+        "stateName": "Himachal Pradesh",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "1998 - 2003, 2007 - 2012",
+        "description": "Former Chief Minister of Himachal Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Virbhadra Singh",
+        "designation": "Chief Minister",
+        "stateName": "Himachal Pradesh",
+        "party": "Indian National Congress (INC)",
+        "period": "1983 - 1990, 1993 - 1998, 2003 - 2007, 2012 - 2017",
+        "description": "Former Chief Minister of Himachal Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Thakur Ram Lal",
+        "designation": "Chief Minister",
+        "stateName": "Himachal Pradesh",
+        "party": null,
+        "period": "1983 - 1985",
+        "description": "Former Chief Minister of Himachal Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Shanta Kumar",
+        "designation": "Chief Minister",
+        "stateName": "Himachal Pradesh",
+        "party": null,
+        "period": "1977 - 1980, 1990 - 1993",
+        "description": "Former Chief Minister of Himachal Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Yashwant Singh Parmar",
+        "designation": "Chief Minister",
+        "stateName": "Himachal Pradesh",
+        "party": null,
+        "period": "1971 - 1977, 1980 - 1983",
+        "description": "Former Chief Minister of Himachal Pradesh.",
+        "img": null
+      }
+    ]
+  },
+  "jharkhand": {
+    "currentCM": {
+      "name": "Hemant Soren",
+      "designation": "Chief Minister",
+      "stateName": "Jharkhand",
+      "party": "Jharkhand Mukti Morcha (JMM)",
+      "period": "2013–2014, 2019–2024, 2024–Present",
+      "description": "Current Chief Minister of Jharkhand.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Babulal Marandi",
+        "designation": "Chief Minister",
+        "stateName": "Jharkhand",
+        "period": "2000–2003",
+        "description": "Former Chief Minister of Jharkhand.",
+        "img": null
+      },
+      {
+        "name": "Arjun Munda",
+        "designation": "Chief Minister",
+        "stateName": "Jharkhand",
+        "period": "2003–2005, 2010–2013",
+        "description": "Former Chief Minister of Jharkhand.",
+        "img": null
+      },
+      {
+        "name": "Shibu Soren",
+        "designation": "Chief Minister",
+        "stateName": "Jharkhand",
+        "period": "2005, 2008–2009, 2009",
+        "description": "Former Chief Minister of Jharkhand.",
+        "img": null
+      },
+      {
+        "name": "Madhu Koda",
+        "designation": "Chief Minister",
+        "stateName": "Jharkhand",
+        "period": "2006–2008",
+        "description": "Former Chief Minister of Jharkhand.",
+        "img": null
+      },
+      {
+        "name": "Raghubar Das",
+        "designation": "Chief Minister",
+        "stateName": "Jharkhand",
+        "period": "2014–2019",
+        "description": "Former Chief Minister of Jharkhand.",
+        "img": null
+      }
+    ]
+  },
+  "karnataka": {
+    "currentCM": {
+      "name": "Siddaramaiah",
+      "designation": "Chief Minister",
+      "stateName": "Karnataka",
+      "party": "Indian National Congress",
+      "period": "2013 - 2018, 2023 - Present",
+      "description": "Chief Minister of Karnataka.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Basavaraj Bommai",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2021 - 2023",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "B. S. Yediyurappa",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2007, 2008 - 2011, 2019 - 2021",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "Jagadish Shettar",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2012 - 2013",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "H. D. Kumaraswamy",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Janata Dal (Secular)",
+        "period": "2006 - 2007, 2018 - 2019",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "Dharam Singh",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Indian National Congress",
+        "period": "2004 - 2006",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "S. M. Krishna",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Indian National Congress",
+        "period": "1999 - 2004",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "J. H. Patel",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Indian National Congress",
+        "period": "1996 - 1999",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "H. D. Deve Gowda",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Janata Dal (Secular)",
+        "period": "1994 - 1996",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "M. Veerappa Moily",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Indian National Congress",
+        "period": "1992 - 1994",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "S. Bangarappa",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Indian National Congress",
+        "period": "1990 - 1992",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "S. R. Bommai",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "1988 - 1989",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "Ramakrishna Hegde",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Janata Party / Bharatiya Janata Party (BJP)",
+        "period": "1983 - 1988",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "R. Gundu Rao",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Indian National Congress",
+        "period": "1980 - 1983",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "D. Devaraj Urs",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Indian National Congress",
+        "period": "1972 - 1977, 1978 - 1980",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "Veerendra Patil",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Indian National Congress",
+        "period": "1968 - 1971, 1989 - 1990",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "S. R. Kanthi",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Indian National Congress",
+        "period": "1962 - 1968",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "S. Nijalingappa",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Indian National Congress",
+        "period": "1956 - 1958, 1962 - 1968",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "B. D. Jatti",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Indian National Congress",
+        "period": "1958 - 1962",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "Kengal Hanumanthaiah",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Indian National Congress",
+        "period": "1952 - 1956",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      },
+      {
+        "name": "K. Chengalaraya Reddy",
+        "designation": "Chief Minister",
+        "stateName": "Karnataka",
+        "party": "Indian National Congress",
+        "period": "1947 - 1952",
+        "description": "Former Chief Minister of Karnataka.",
+        "img": null
+      }
+    ]
+  },
+  "madhya-pradesh": {
+    "currentCM": {
+      "name": "Mohan Yadav",
+      "designation": "Chief Minister",
+      "stateName": "Madhya Pradesh",
+      "party": "Bharatiya Janata Party (BJP)",
+      "period": "2023 - Present",
+      "description": "Current Chief Minister of Madhya Pradesh.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Shivraj Singh Chouhan",
+        "designation": "Chief Minister",
+        "stateName": "Madhya Pradesh",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2005 - 2018, 2020 - 2023",
+        "description": "Former Chief Minister of Madhya Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Kamal Nath",
+        "designation": "Chief Minister",
+        "stateName": "Madhya Pradesh",
+        "party": "Indian National Congress (INC)",
+        "period": "2018 - 2020",
+        "description": "Former Chief Minister of Madhya Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Digvijaya Singh",
+        "designation": "Chief Minister",
+        "stateName": "Madhya Pradesh",
+        "party": "Indian National Congress (INC)",
+        "period": "1993 - 2003",
+        "description": "Former Chief Minister of Madhya Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Babulal Gaur",
+        "designation": "Chief Minister",
+        "stateName": "Madhya Pradesh",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2004 - 2005",
+        "description": "Former Chief Minister of Madhya Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Uma Bharti",
+        "designation": "Chief Minister",
+        "stateName": "Madhya Pradesh",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2003 - 2004",
+        "description": "Former Chief Minister of Madhya Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Sunder Lal Patwa",
+        "designation": "Chief Minister",
+        "stateName": "Madhya Pradesh",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "1980, 1990 - 1992",
+        "description": "Former Chief Minister of Madhya Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Motilal Vora",
+        "designation": "Chief Minister",
+        "stateName": "Madhya Pradesh",
+        "party": "Indian National Congress (INC)",
+        "period": "1985 - 1988",
+        "description": "Former Chief Minister of Madhya Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Arjun Singh",
+        "designation": "Chief Minister",
+        "stateName": "Madhya Pradesh",
+        "party": "Indian National Congress (INC)",
+        "period": "1980 - 1985, 1988 - 1989",
+        "description": "Former Chief Minister of Madhya Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Shyama Charan Shukla",
+        "designation": "Chief Minister",
+        "stateName": "Madhya Pradesh",
+        "party": "Indian National Congress (INC)",
+        "period": "1972 - 1977, 1980, 1989",
+        "description": "Former Chief Minister of Madhya Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Govind Narayan Singh",
+        "designation": "Chief Minister",
+        "stateName": "Madhya Pradesh",
+        "party": "Samyukta Vidhayak Dal",
+        "period": "1967 - 1969",
+        "description": "Former Chief Minister of Madhya Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Dwarka Prasad Mishra",
+        "designation": "Chief Minister",
+        "stateName": "Madhya Pradesh",
+        "party": "Indian National Congress (INC)",
+        "period": "1963 - 1967",
+        "description": "Former Chief Minister of Madhya Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Kailash Nath Katju",
+        "designation": "Chief Minister",
+        "stateName": "Madhya Pradesh",
+        "party": "Indian National Congress (INC)",
+        "period": "1957 - 1962",
+        "description": "Former Chief Minister of Madhya Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Bhagwantrao Mandloi",
+        "designation": "Chief Minister",
+        "stateName": "Madhya Pradesh",
+        "party": "Indian National Congress (INC)",
+        "period": "1957 - 1958",
+        "description": "Former Chief Minister of Madhya Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Ravishankar Shukla",
+        "designation": "Chief Minister",
+        "stateName": "Madhya Pradesh",
+        "party": "Indian National Congress (INC)",
+        "period": "1956",
+        "description": "Former Chief Minister of Madhya Pradesh.",
+        "img": null
+      }
+    ]
+  },
+  "manipur": {
+    "currentCM": {
+      "name": "N. Biren Singh",
+      "designation": "Chief Minister",
+      "stateName": "Manipur",
+      "party": "Bharatiya Janata Party",
+      "period": "2017 - Present",
+      "description": "Current Chief Minister of Manipur.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Okram Ibobi Singh",
+        "designation": "Chief Minister",
+        "stateName": "Manipur",
+        "party": "Indian National Congress",
+        "period": "2002 - 2017",
+        "description": "Former Chief Minister of Manipur.",
+        "img": null
+      },
+      {
+        "name": "Radhabinod Koijam",
+        "designation": "Chief Minister",
+        "stateName": "Manipur",
+        "party": "Indian National Congress",
+        "period": "2001",
+        "description": "Former Chief Minister of Manipur.",
+        "img": null
+      },
+      {
+        "name": "President’s Rule",
+        "designation": "Chief Minister",
+        "stateName": "Manipur",
+        "party": "N/A",
+        "period": "1992 - 1995",
+        "description": "Former Chief Minister of Manipur during President's rule.",
+        "img": null
+      },
+      {
+        "name": "Rajkumar Dorendra Singh",
+        "designation": "Chief Minister",
+        "stateName": "Manipur",
+        "party": "Indian National Congress",
+        "period": "1990 - 1992",
+        "description": "Former Chief Minister of Manipur.",
+        "img": null
+      },
+      {
+        "name": "Rajkumar Jaichandra Singh",
+        "designation": "Chief Minister",
+        "stateName": "Manipur",
+        "party": "Indian National Congress",
+        "period": "1988 - 1990",
+        "description": "Former Chief Minister of Manipur.",
+        "img": null
+      },
+      {
+        "name": "Rajkumar Dorendra Singh",
+        "designation": "Chief Minister",
+        "stateName": "Manipur",
+        "party": "Indian National Congress",
+        "period": "1981 - 1988",
+        "description": "Former Chief Minister of Manipur.",
+        "img": null
+      },
+      {
+        "name": "Rishang Keishing",
+        "designation": "Chief Minister",
+        "stateName": "Manipur",
+        "party": "Indian National Congress",
+        "period": "1980 - 1981",
+        "description": "Former Chief Minister of Manipur.",
+        "img": null
+      },
+      {
+        "name": "President’s Rule",
+        "designation": "Chief Minister",
+        "stateName": "Manipur",
+        "party": "N/A",
+        "period": "1977 - 1980",
+        "description": "Former Chief Minister of Manipur during President's rule.",
+        "img": null
+      },
+      {
+        "name": "Yangmaso Shaiza",
+        "designation": "Chief Minister",
+        "stateName": "Manipur",
+        "party": "Independent / United Legislative Front",
+        "period": "1974 - 1977",
+        "description": "Former Chief Minister of Manipur.",
+        "img": null
+      },
+      {
+        "name": "Muhammad Alimuddin",
+        "designation": "Chief Minister",
+        "stateName": "Manipur",
+        "party": "Indian National Congress",
+        "period": "1972 - 1974",
+        "description": "Former Chief Minister of Manipur.",
+        "img": null
+      }
+    ]
+  },
+  "meghalaya": {
+    "currentCM": {
+      "name": "Conrad Sangma",
+      "designation": "Chief Minister",
+      "stateName": "Meghalaya",
+      "party": "National People’s Party (NPP)",
+      "period": "2018 - Present",
+      "description": "Current Chief Minister of Meghalaya.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Mukul Sangma",
+        "designation": "Chief Minister",
+        "stateName": "Meghalaya",
+        "party": "Indian National Congress",
+        "period": "2010 - 2018",
+        "description": "Former Chief Minister of Meghalaya.",
+        "img": null
+      },
+      {
+        "name": "J.D. Rymbai",
+        "designation": "Chief Minister",
+        "stateName": "Meghalaya",
+        "party": "Indian National Congress",
+        "period": "2006 - 2007",
+        "description": "Former Chief Minister of Meghalaya.",
+        "img": null
+      },
+      {
+        "name": "D.D. Lapang",
+        "designation": "Chief Minister",
+        "stateName": "Meghalaya",
+        "party": "Indian National Congress",
+        "period": "2003 - 2006, 2007, 2008 - 2010",
+        "description": "Former Chief Minister of Meghalaya.",
+        "img": null
+      },
+      {
+        "name": "Salseng C. Marak",
+        "designation": "Chief Minister",
+        "stateName": "Meghalaya",
+        "party": "Indian National Congress",
+        "period": "2001 - 2003",
+        "description": "Former Chief Minister of Meghalaya.",
+        "img": null
+      },
+      {
+        "name": "S.C. Marak",
+        "designation": "Chief Minister",
+        "stateName": "Meghalaya",
+        "party": "Indian National Congress",
+        "period": "1993 - 1998",
+        "description": "Former Chief Minister of Meghalaya.",
+        "img": null
+      },
+      {
+        "name": "E.K. Mawlong",
+        "designation": "Chief Minister",
+        "stateName": "Meghalaya",
+        "party": "United Democratic Party",
+        "period": "1998 - 2000",
+        "description": "Former Chief Minister of Meghalaya.",
+        "img": null
+      },
+      {
+        "name": "F.A. Khonglam",
+        "designation": "Chief Minister",
+        "stateName": "Meghalaya",
+        "party": "Independent",
+        "period": "2000 - 2001",
+        "description": "Former Chief Minister of Meghalaya.",
+        "img": null
+      },
+      {
+        "name": "Brington Buhai Lyngdoh",
+        "designation": "Chief Minister",
+        "stateName": "Meghalaya",
+        "party": "All Party Hill Leaders Conference / United Democratic Party",
+        "period": "1979 - 1981, 1990",
+        "description": "Former Chief Minister of Meghalaya.",
+        "img": null
+      },
+      {
+        "name": "D.D. Pugh",
+        "designation": "Chief Minister",
+        "stateName": "Meghalaya",
+        "party": "All Party Hill Leaders Conference (APHLC)",
+        "period": "1979",
+        "description": "Former Chief Minister of Meghalaya.",
+        "img": null
+      },
+      {
+        "name": "W.A. Sangma",
+        "designation": "Chief Minister",
+        "stateName": "Meghalaya",
+        "party": "All Party Hill Leaders Conference (APHLC)",
+        "period": "1983 - 1988",
+        "description": "Former Chief Minister of Meghalaya.",
+        "img": null
+      },
+      {
+        "name": "Williamson A. Sangma",
+        "designation": "Chief Minister",
+        "stateName": "Meghalaya",
+        "party": "All Party Hill Leaders Conference (APHLC)",
+        "period": "1972 - 1979, 1983 - 1988",
+        "description": "Former Chief Minister of Meghalaya.",
+        "img": null
+      }
+    ]
+  },
+  "mizoram":{
+    "currentCM": {
+      "name": "Lalduhoma",
+      "designation": "Chief Minister",
+      "stateName": "Mizoram",
+      "party": "Zoram People’s Movement (ZPM)",
+      "period": "2023 - Present",
+      "description": "Current Chief Minister of Mizoram.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Lal Thanhawla",
+        "designation": "Chief Minister",
+        "stateName": "Mizoram",
+        "party": "Indian National Congress (INC)",
+        "period": "1984 - 1986, 1989 - 1998, 2008 - 2018",
+        "description": "Former Chief Minister of Mizoram.",
+        "img": null
+      },
+      {
+        "name": "Zoramthanga",
+        "designation": "Chief Minister",
+        "stateName": "Mizoram",
+        "party": "Mizo National Front (MNF)",
+        "period": "1998–2003, 2018–2023",
+        "description": "Former Chief Minister of Mizoram.",
+        "img": null
+      }
+    ]
+  },
+  "nagaland":{
+    "currentCM": {
+      "name": "Neiphiu Rio",
+      "designation": "Chief Minister",
+      "stateName": "Nagaland",
+      "party": "Nationalist Democratic Progressive Party",
+      "period": "2003–2014, 2018–Present",
+      "description": "Chief Minister of Nagaland.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "P. Shilu Ao",
+        "designation": "Chief Minister",
+        "stateName": "Nagaland",
+        "party": "Naga Nationalist Organisation (NNO)",
+        "period": "1963–1966",
+        "description": "Former Chief Minister of Nagaland.",
+        "img": null
+      },
+      {
+        "name": "T. N. Angami",
+        "designation": "Chief Minister",
+        "stateName": "Nagaland",
+        "party": "Naga Nationalist Organisation (NNO)",
+        "period": "1966",
+        "description": "Former Chief Minister of Nagaland.",
+        "img": null
+      },
+      {
+        "name": "Hokishe Sema",
+        "designation": "Chief Minister",
+        "stateName": "Nagaland",
+        "party": "Naga Nationalist Organisation (NNO)",
+        "period": "1966–1974",
+        "description": "Former Chief Minister of Nagaland.",
+        "img": null
+      },
+      {
+        "name": "Vizol Angami",
+        "designation": "Chief Minister",
+        "stateName": "Nagaland",
+        "party": "United Democratic Front (UDF)",
+        "period": "1974–1975",
+        "description": "Former Chief Minister of Nagaland.",
+        "img": null
+      },
+      {
+        "name": "John Bosco Jasokie",
+        "designation": "Chief Minister",
+        "stateName": "Nagaland",
+        "party": "United Democratic Front (UDF) / Congress",
+        "period": "1975–1988",
+        "description": "Former Chief Minister of Nagaland.",
+        "img": null
+      },
+      {
+        "name": "S. C. Jamir",
+        "designation": "Chief Minister",
+        "stateName": "Nagaland",
+        "party": "Indian National Congress",
+        "period": "1980–1986, 1989–1990, 1993–2003",
+        "description": "Former Chief Minister of Nagaland.",
+        "img": null
+      },
+      {
+        "name": "K. L. Chishi",
+        "designation": "Chief Minister",
+        "stateName": "Nagaland",
+        "party": "Congress / Nagaland People’s Council",
+        "period": "1990–1992",
+        "description": "Former Chief Minister of Nagaland.",
+        "img": null
+      },
+      {
+        "name": "Vamuzo Phesao",
+        "designation": "Chief Minister",
+        "stateName": "Nagaland",
+        "party": "Nagaland People’s Council",
+        "period": "1990",
+        "description": "Former Chief Minister of Nagaland.",
+        "img": null
+      },
+      {
+        "name": "T. R. Zeliang",
+        "designation": "Chief Minister",
+        "stateName": "Nagaland",
+        "party": "Naga People's Front",
+        "period": "2014–2017",
+        "description": "Former Chief Minister of Nagaland.",
+        "img": null
+      },
+      {
+        "name": "Shürhozelie Liezietsu",
+        "designation": "Chief Minister",
+        "stateName": "Nagaland",
+        "party": "Naga People's Front",
+        "period": "2017",
+        "description": "Former Chief Minister of Nagaland.",
+        "img": null
+      },
+      {
+        "name": "Noke Wangnao",
+        "designation": "Chief Minister",
+        "stateName": "Nagaland",
+        "party": "Naga People's Front",
+        "period": "Acting CM in 2017",
+        "description": "Former Acting Chief Minister of Nagaland.",
+        "img": null
+      }
+    ]
+  },
+  "odisha": {
+    "currentCM": {
+      "name": "Mohan Charan Majhi",
+      "designation": "Chief Minister",
+      "stateName": "Odisha",
+      "party": "Bharatiya Janata Party",
+      "period": "2024–Present",
+      "description": "Chief Minister of Odisha.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Naveen Patnaik",
+        "designation": "Chief Minister",
+        "stateName": "Odisha",
+        "party": "Biju Janata Dal",
+        "period": "2000–2024",
+        "description": "Former Chief Minister of Odisha.",
+        "img": null
+      },
+      {
+        "name": "Biju Patnaik",
+        "designation": "Chief Minister",
+        "stateName": "Odisha",
+        "party": "Janata Dal",
+        "period": "1990–1995",
+        "description": "Former Chief Minister of Odisha.",
+        "img": null
+      },
+      {
+        "name": "Hemananda Biswal",
+        "designation": "Chief Minister",
+        "stateName": "Odisha",
+        "party": "Indian National Congress",
+        "period": "1989–1990, 1999–2000",
+        "description": "Former Chief Minister of Odisha.",
+        "img": null
+      },
+      {
+        "name": "J. B. Patnaik",
+        "designation": "Chief Minister",
+        "stateName": "Odisha",
+        "party": "Indian National Congress",
+        "period": "1980–1989, 1995–1999",
+        "description": "Former Chief Minister of Odisha.",
+        "img": null
+      },
+      {
+        "name": "Giridhar Gamang",
+        "designation": "Chief Minister",
+        "stateName": "Odisha",
+        "party": "Indian National Congress",
+        "period": "1999",
+        "description": "Former Chief Minister of Odisha.",
+        "img": null
+      },
+      {
+        "name": "Girish Chandra Raut",
+        "designation": "Chief Minister",
+        "stateName": "Odisha",
+        "party": "N/A",
+        "period": "N/A",
+        "description": "Former Chief Minister (not provided in requested list).",
+        "img": null
+      },
+      {
+        "name": "Nilamani Routray",
+        "designation": "Chief Minister",
+        "stateName": "Odisha",
+        "party": "Janata Party",
+        "period": "1977–1980",
+        "description": "Former Chief Minister of Odisha.",
+        "img": null
+      },
+      {
+        "name": "Nandini Satpathy",
+        "designation": "Chief Minister",
+        "stateName": "Odisha",
+        "party": "Indian National Congress",
+        "period": "1972–1976",
+        "description": "Former Chief Minister of Odisha.",
+        "img": null
+      },
+      {
+        "name": "Binayak Acharya",
+        "designation": "Chief Minister",
+        "stateName": "Odisha",
+        "party": "Indian National Congress",
+        "period": "1976–1977",
+        "description": "Former Chief Minister of Odisha.",
+        "img": null
+      },
+      {
+        "name": "Biswanath Das",
+        "designation": "Chief Minister",
+        "stateName": "Odisha",
+        "party": "Indian National Congress",
+        "period": "1971–1972",
+        "description": "Former Chief Minister of Odisha.",
+        "img": null
+      },
+      {
+        "name": "Sadashiva Tripathy",
+        "designation": "Chief Minister",
+        "stateName": "Odisha",
+        "party": "Indian National Congress",
+        "period": "1965–1967",
+        "description": "Former Chief Minister of Odisha.",
+        "img": null
+      },
+      {
+        "name": "Biren Mitra",
+        "designation": "Chief Minister",
+        "stateName": "Odisha",
+        "party": "Indian National Congress",
+        "period": "1961–1963",
+        "description": "Former Chief Minister of Odisha.",
+        "img": null
+      },
+      {
+        "name": "Rajendra Narayan Singh Deo",
+        "designation": "Chief Minister",
+        "stateName": "Odisha",
+        "party": "Swatantra Party",
+        "period": "1967–1971",
+        "description": "Former Chief Minister of Odisha.",
+        "img": null
+      },
+      {
+        "name": "Nabakrushna Choudhuri",
+        "designation": "Chief Minister",
+        "stateName": "Odisha",
+        "party": "Indian National Congress",
+        "period": "1950–1956",
+        "description": "Former Chief Minister of Odisha.",
+        "img": null
+      },
+      {
+        "name": "Harekrushna Mahatab",
+        "designation": "Chief Minister",
+        "stateName": "Odisha",
+        "party": "Indian National Congress",
+        "period": "1946–1950, 1956–1961",
+        "description": "Former Chief Minister of Odisha.",
+        "img": null
+      }
+    ]
+  },
+  "punjab": {
+    "currentCM": {
+      "name": "Bhagwant Mann",
+      "designation": "Chief Minister",
+      "stateName": "Punjab",
+      "party": "Aam Aadmi Party",
+      "period": "2022–Present",
+      "description": "Chief Minister of Punjab.",
+      "img": "I Love India/src/assets/Punjab.jpg"
+    },
+    "exCMs": [
+      {
+        "name": "Charanjit Singh Channi",
+        "designation": "Chief Minister",
+        "stateName": "Punjab",
+        "party": "Indian National Congress",
+        "period": "2021–2022",
+        "description": "Former Chief Minister of Punjab.",
+        "img": null
+      },
+      {
+        "name": "Captain Amarinder Singh",
+        "designation": "Chief Minister",
+        "stateName": "Punjab",
+        "party": "Indian National Congress",
+        "period": "2002–2007, 2017–2021",
+        "description": "Former Chief Minister of Punjab.",
+        "img": null
+      },
+      {
+        "name": "Rajinder Kaur Bhattal",
+        "designation": "Chief Minister",
+        "stateName": "Punjab",
+        "party": "Indian National Congress",
+        "period": "1996–1997",
+        "description": "Former Chief Minister of Punjab.",
+        "img": null
+      },
+      {
+        "name": "Harcharan Singh Brar",
+        "designation": "Chief Minister",
+        "stateName": "Punjab",
+        "party": "Indian National Congress",
+        "period": "1995–1996",
+        "description": "Former Chief Minister of Punjab.",
+        "img": null
+      },
+      {
+        "name": "Beant Singh",
+        "designation": "Chief Minister",
+        "stateName": "Punjab",
+        "party": "Indian National Congress",
+        "period": "1992–1995",
+        "description": "Former Chief Minister of Punjab.",
+        "img": null
+      },
+      {
+        "name": "Surjit Singh Barnala",
+        "designation": "Chief Minister",
+        "stateName": "Punjab",
+        "party": "Shiromani Akali Dal",
+        "period": "1985–1987",
+        "description": "Former Chief Minister of Punjab.",
+        "img": null
+      },
+      {
+        "name": "Gurnam Singh",
+        "designation": "Chief Minister",
+        "stateName": "Punjab",
+        "party": "Shiromani Akali Dal",
+        "period": "1967–1968, 1969–1970",
+        "description": "Former Chief Minister of Punjab.",
+        "img": null
+      },
+      {
+        "name": "Lachhman Singh Gill",
+        "designation": "Chief Minister",
+        "stateName": "Punjab",
+        "party": "Punjab Janata Party",
+        "period": "1967–1968",
+        "description": "Former Chief Minister of Punjab.",
+        "img": null
+      },
+      {
+        "name": "Parkash Singh Badal",
+        "designation": "Chief Minister",
+        "stateName": "Punjab",
+        "party": "Shiromani Akali Dal",
+        "period": "1970–1971, 1977–1980, 1997–2002, 2007–2017",
+        "description": "Former Chief Minister of Punjab.",
+        "img": null
+      },
+      {
+        "name": "Zail Singh",
+        "designation": "Chief Minister",
+        "stateName": "Punjab",
+        "party": "Indian National Congress",
+        "period": "1972–1977",
+        "description": "Former Chief Minister of Punjab.",
+        "img": null
+      },
+      {
+        "name": "Darbara Singh",
+        "designation": "Chief Minister",
+        "stateName": "Punjab",
+        "party": "Indian National Congress",
+        "period": "1980–1983",
+        "description": "Former Chief Minister of Punjab.",
+        "img": null
+      },
+      {
+        "name": "Ram Kishan",
+        "designation": "Chief Minister",
+        "stateName": "Punjab",
+        "party": "Indian National Congress",
+        "period": "1964–1966",
+        "description": "Former Chief Minister of Punjab.",
+        "img": null
+      },
+      {
+        "name": "Gopi Chand Bhargava",
+        "designation": "Chief Minister",
+        "stateName": "Punjab",
+        "party": "Indian National Congress",
+        "period": "1947–1949, 1951–1952",
+        "description": "Former Chief Minister of Punjab.",
+        "img": null
+      },
+      {
+        "name": "Bhim Sen Sachar",
+        "designation": "Chief Minister",
+        "stateName": "Punjab",
+        "party": "Indian National Congress",
+        "period": "1949–1951, 1952–1956",
+        "description": "Former Chief Minister of Punjab.",
+        "img": null
+      },
+      {
+        "name": "Partap Singh Kairon",
+        "designation": "Chief Minister",
+        "stateName": "Punjab",
+        "party": "Indian National Congress",
+        "period": "1956–1964",
+        "description": "Former Chief Minister of Punjab.",
+        "img": null
+      },
+      {
+        "name": "Charanjit Singh Channi",
+        "designation": "Chief Minister",
+        "stateName": "Punjab",
+        "party": "Indian National Congress",
+        "period": "2021–2022",
+        "description": "Former Chief Minister of Punjab.",
+        "img": null
+      }
+    ]
+  },
+  "rajasthan": {
+    "currentCM": {
+      "name": "Bhajan Lal Sharma",
+      "designation": "Chief Minister",
+      "stateName": "Rajasthan",
+      "party": "Bharatiya Janata Party (BJP)",
+      "period": "2023 - Present",
+      "description": "Current Chief Minister of Rajasthan.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Ashok Gehlot",
+        "designation": "Chief Minister",
+        "stateName": "Rajasthan",
+        "party": "Indian National Congress",
+        "period": "1998 - 2003, 2008 - 2013",
+        "description": "Former Chief Minister of Rajasthan.",
+        "img": null
+      },
+      {
+        "name": "Vasundhara Raje",
+        "designation": "Chief Minister",
+        "stateName": "Rajasthan",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2003 - 2008, 2013 - 2018",
+        "description": "Former Chief Minister of Rajasthan.",
+        "img": null
+      },
+      {
+        "name": "Hari Dev Joshi",
+        "designation": "Chief Minister",
+        "stateName": "Rajasthan",
+        "party": "Indian National Congress",
+        "period": "1973 - 1977, 1985 - 1988, 1989 - 1990",
+        "description": "Former Chief Minister of Rajasthan.",
+        "img": null
+      },
+      {
+        "name": "Bhairon Singh Shekhawat",
+        "designation": "Chief Minister",
+        "stateName": "Rajasthan",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "1977 - 1980, 1990 - 1992, 1993 - 1998",
+        "description": "Former Chief Minister of Rajasthan.",
+        "img": null
+      },
+      {
+        "name": "Shiv Charan Mathur",
+        "designation": "Chief Minister",
+        "stateName": "Rajasthan",
+        "party": "Indian National Congress",
+        "period": "1981 - 1985, 1988 - 1989",
+        "description": "Former Chief Minister of Rajasthan.",
+        "img": null
+      },
+      {
+        "name": "Mohan Lal Sukhadia",
+        "designation": "Chief Minister",
+        "stateName": "Rajasthan",
+        "party": "Indian National Congress",
+        "period": "1954 - 1971",
+        "description": "Former Chief Minister of Rajasthan.",
+        "img": null
+      },
+      {
+        "name": "Barkatullah Khan",
+        "designation": "Chief Minister",
+        "stateName": "Rajasthan",
+        "party": "Indian National Congress",
+        "period": "1971 - 1973",
+        "description": "Former Chief Minister of Rajasthan.",
+        "img": null
+      },
+      {
+        "name": "Jai Narayan Vyas",
+        "designation": "Chief Minister",
+        "stateName": "Rajasthan",
+        "party": "Indian National Congress",
+        "period": "1951 - 1952, 1952 - 1954",
+        "description": "Former Chief Minister of Rajasthan.",
+        "img": null
+      },
+      {
+        "name": "Tikaram Paliwal",
+        "designation": "Chief Minister",
+        "stateName": "Rajasthan",
+        "party": "Indian National Congress",
+        "period": "1952",
+        "description": "Former Chief Minister of Rajasthan.",
+        "img": null
+      },
+      {
+        "name": "C. S. Venkatachar",
+        "designation": "Chief Minister",
+        "stateName": "Rajasthan",
+        "party": "Indian National Congress",
+        "period": "1951",
+        "description": "Former Chief Minister of Rajasthan.",
+        "img": null
+      },
+      {
+        "name": "Heera Lal Shastri",
+        "designation": "Chief Minister",
+        "stateName": "Rajasthan",
+        "party": "Indian National Congress",
+        "period": "1949 - 1951",
+        "description": "Former Chief Minister of Rajasthan.",
+        "img": null
+      }
+    ]
+  },
+  "sikkim": {
+    "currentCM": {
+      "name": "Prem Singh Tamang",
+      "designation": "Chief Minister",
+      "stateName": "Sikkim",
+      "party": "Sikkim Krantikari Morcha",
+      "period": "2019 - Present",
+      "description": "Current Chief Minister of Sikkim.",
+      "img": "I Love India/sikkim.webp"
+    },
+    "exCMs": [
+      {
+        "name": "Kazi Lhendup Dorjee",
+        "designation": "Chief Minister",
+        "stateName": "Sikkim",
+        "party": "Sikkim National Congress",
+        "period": "1975 - 1979",
+        "description": "Former Chief Minister of Sikkim.",
+        "img": null
+      },
+      {
+        "name": "Nar Bahadur Bhandari",
+        "designation": "Chief Minister",
+        "stateName": "Sikkim",
+        "party": "Sikkim Janata Parishad / Sikkim Sangram Parishad",
+        "period": "1979 - 1994",
+        "description": "Former Chief Minister of Sikkim.",
+        "img": null
+      },
+      {
+        "name": "Pawan Kumar Chamling",
+        "designation": "Chief Minister",
+        "stateName": "Sikkim",
+        "party": "Sikkim Democratic Front",
+        "period": "1994 - 2019",
+        "description": "Former Chief Minister of Sikkim.",
+        "img": null
+      }
+    ]
+  },
+  "telangana":{
+    "currentCM": {
+      "name": "A. Revanth Reddy",
+      "designation": "Chief Minister",
+      "stateName": "Telangana",
+      "party": "Indian National Congress (INC)",
+      "period": "2023–Present",
+      "description": "Current Chief Minister of Telangana.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "K. Chandrashekar Rao",
+        "designation": "Chief Minister",
+        "stateName": "Telangana (as part of Andhra Pradesh)",
+        "party": "Bharat Rashtra Samithi (BRS)",
+        "period": "2014–2023",
+        "description": "Former Chief Minister of Telangana.",
+        "img": null
+      }
+    ]
+  },
+  "tripura": {
+    "currentCM": {
+      "name": "Manik Saha",
+      "designation": "Chief Minister",
+      "stateName": "Tripura",
+      "party": "Bharatiya Janata Party (BJP)",
+      "period": "2022 - Present",
+      "description": "Current Chief Minister of Tripura.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Biplab Kumar Deb",
+        "designation": "Chief Minister",
+        "stateName": "Tripura",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2018 - 2022",
+        "description": "Former Chief Minister of Tripura.",
+        "img": null
+      },
+      {
+        "name": "Manik Sarkar",
+        "designation": "Chief Minister",
+        "stateName": "Tripura",
+        "party": "Communist Party of India (Marxist)",
+        "period": "1998 - 2018",
+        "description": "Former Chief Minister of Tripura.",
+        "img": null
+      },
+      {
+        "name": "Dasarath Deb",
+        "designation": "Chief Minister",
+        "stateName": "Tripura",
+        "party": "Communist Party of India (Marxist)",
+        "period": "1993–1998",
+        "description": "Former Chief Minister of Tripura.",
+        "img": null
+      },
+      {
+        "name": "Samir Ranjan Barman",
+        "designation": "Chief Minister",
+        "stateName": "Tripura",
+        "party": "Indian National Congress",
+        "period": "1992–1993",
+        "description": "Former Chief Minister of Tripura.",
+        "img": null
+      },
+      {
+        "name": "Sudhir Ranjan Majumdar",
+        "designation": "Chief Minister",
+        "stateName": "Tripura",
+        "party": "Indian National Congress",
+        "period": "1988–1992",
+        "description": "Former Chief Minister of Tripura.",
+        "img": null
+      },
+      {
+        "name": "Nripen Chakraborty",
+        "designation": "Chief Minister",
+        "stateName": "Tripura",
+        "party": "Communist Party of India (Marxist)",
+        "period": "1978–1988",
+        "description": "Former Chief Minister of Tripura.",
+        "img": null
+      },
+      {
+        "name": "Radhika Ranjan Gupta",
+        "designation": "Chief Minister",
+        "stateName": "Tripura",
+        "party": "Janata Party",
+        "period": "1977–1978",
+        "description": "Former Chief Minister of Tripura.",
+        "img": null
+      },
+      {
+        "name": "Prafulla Kumar Das",
+        "designation": "Chief Minister",
+        "stateName": "Tripura",
+        "party": "Indian National Congress",
+        "period": "1977",
+        "description": "Former Chief Minister of Tripura.",
+        "img": null
+      },
+      {
+        "name": "Sukhamoy Sen Gupta",
+        "designation": "Chief Minister",
+        "stateName": "Tripura",
+        "party": "Indian National Congress",
+        "period": "1972–1977",
+        "description": "Former Chief Minister of Tripura.",
+        "img": null
+      },
+      {
+        "name": "Sachindra Lal Singh",
+        "designation": "Chief Minister",
+        "stateName": "Tripura",
+        "party": "Indian National Congress",
+        "period": "1963–1971",
+        "description": "Former Chief Minister of Tripura.",
+        "img": null
+      }
+    ]
+  },
+  "uttar-pradesh": {
+    "currentCM": {
+      "name": "Yogi Adityanath",
+      "designation": "Chief Minister",
+      "stateName": "Uttar Pradesh",
+      "party": "Bharatiya Janata Party (BJP)",
+      "period": "2017 - Present",
+      "description": "Current Chief Minister of Uttar Pradesh.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Akhlilesh Yadav",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Samajwadi Party",
+        "period": "2012 - 2017",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Rajnath Singh",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2000 - 2002",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Mayawati",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Bahujan Samaj Party",
+        "period": "1995, 1997, 2002 - 2003, 2007 - 2012",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Kalyan Singh",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "1991 - 1992, 1997 - 1999",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Mulayam Singh Yadav",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Samajwadi Party",
+        "period": "1989 - 1991, 1993 - 1995, 2003 - 2007",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Vir Bahadur Singh",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Indian National Congress",
+        "period": "1985 - 1988",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Sripati Mishra",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Indian National Congress",
+        "period": "1982 - 1984",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Narayan Dutt Tiwari",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Indian National Congress",
+        "period": "1976 - 1977, 1984 - 1985, 1988 - 1989",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Hemwati Nandan Bahuguna",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Indian National Congress",
+        "period": "1973 - 1975",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Kamalapati Tripathi",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Indian National Congress",
+        "period": "1971 - 1973",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Chandra Bhanu Gupta",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Indian National Congress",
+        "period": "1960 - 1963, 1967, 1969 - 1970",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Sucheta Kripalani",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Indian National Congress",
+        "period": "1963 - 1967",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Govind Ballabh Pant",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Indian National Congress",
+        "period": "1950 - 1954",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Sampurnanand",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Indian National Congress",
+        "period": "1954 - 1960",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Charan Singh",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Bharatiya Kranti Dal",
+        "period": "1967 - 1968, 1970",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Tribhuvan Narain Singh",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Congress (O)",
+        "period": "1970 - 1971",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Ram Naresh Yadav",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Janata Party",
+        "period": "1977 - 1979",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      },
+      {
+        "name": "Banarsi Das",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Janata Party",
+        "period": "1979 - 1980",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      },
+      {
+        "name": "V. P. Singh",
+        "designation": "Chief Minister",
+        "stateName": "Uttar Pradesh",
+        "party": "Indian National Congress",
+        "period": "1980 - 1982",
+        "description": "Former Chief Minister of Uttar Pradesh.",
+        "img": null
+      }
+    ]
+  },
+  "uttarakhand": {
+    "currentCM": {
+      "name": "Pushkar Singh Dhami",
+      "designation": "Chief Minister",
+      "stateName": "Uttarakhand",
+      "party": "Bharatiya Janata Party (BJP)",
+      "period": "2021 - Present",
+      "description": "Current Chief Minister of Uttarakhand.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Nityanand Swami",
+        "designation": "Chief Minister",
+        "stateName": "Uttarakhand",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2000 - 2001",
+        "description": "Former Chief Minister of Uttarakhand.",
+        "img": null
+      },
+      {
+        "name": "Bhagat Singh Koshyari",
+        "designation": "Chief Minister",
+        "stateName": "Uttarakhand",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2001 - 2002",
+        "description": "Former Chief Minister of Uttarakhand.",
+        "img": null
+      },
+      {
+        "name": "Narayan Dutt Tiwari",
+        "designation": "Chief Minister",
+        "stateName": "Uttarakhand",
+        "party": "Indian National Congress (INC)",
+        "period": "2002 - 2007",
+        "description": "Former Chief Minister of Uttarakhand.",
+        "img": null
+      },
+      {
+        "name": "B. C. Khanduri",
+        "designation": "Chief Minister",
+        "stateName": "Uttarakhand",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2007 - 2009, 2011 - 2012",
+        "description": "Former Chief Minister of Uttarakhand.",
+        "img": null
+      },
+      {
+        "name": "Ramesh Pokhriyal",
+        "designation": "Chief Minister",
+        "stateName": "Uttarakhand",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2009 - 2011",
+        "description": "Former Chief Minister of Uttarakhand.",
+        "img": null
+      },
+      {
+        "name": "Vijay Bahuguna",
+        "designation": "Chief Minister",
+        "stateName": "Uttarakhand",
+        "party": "Indian National Congress (INC)",
+        "period": "2012 - 2014",
+        "description": "Former Chief Minister of Uttarakhand.",
+        "img": null
+      },
+      {
+        "name": "Harish Rawat",
+        "designation": "Chief Minister",
+        "stateName": "Uttarakhand",
+        "party": "Indian National Congress (INC)",
+        "period": "2014 - 2017",
+        "description": "Former Chief Minister of Uttarakhand.",
+        "img": null
+      },
+      {
+        "name": "Trivendra Singh Rawat",
+        "designation": "Chief Minister",
+        "stateName": "Uttarakhand",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2017 - 2021",
+        "description": "Former Chief Minister of Uttarakhand.",
+        "img": null
+      },
+      {
+        "name": "Tirath Singh Rawat",
+        "designation": "Chief Minister",
+        "stateName": "Uttarakhand",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "2021",
+        "description": "Former Chief Minister of Uttarakhand.",
+        "img": null
+      }
+    ]
+  },
+  "andaman-and-nicobar-islands": {
+    "currentCM": {
+      "name": "Admiral D. K. Joshi",
+      "designation": "Lieutenant Governor",
+      "stateName": "Andaman and Nicobar Islands",
+      "description": "Current Lieutenant Governor of Andaman and Nicobar Islands.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Andaman and Nicobar Islands",
+        "type": "Union Territory",
+        "capital": "Port Blair",
+        "chiefMinister": null,
+        "lieutenantGovernor": "Admiral D. K. Joshi",
+        "location": "Bay of Bengal",
+        "famousFor": [
+          "Cellular Jail",
+          "Beaches",
+          "Coral reefs",
+          "Tribal communities"
+        ],
+        "governedBy": "Central Government of India",
+        "hasLegislativeAssembly": false
+      },
+      {
+        "description": "Important Information",
+        "details": "Andaman and Nicobar Islands is a Union Territory of India, not a state.Therefore: It does not have a Chief Minister. It is governed by the Lieutenant Governor appointed by the President of India.Administration is controlled directly by the Central Government of India.",
+        "disclaimer": "The list of ex-Chief Ministers is not applicable for Andaman and Nicobar Islands due to its status as a Union Territory.",
+        "importantNote": "Please refer to the current Lieutenant Governor for administrative information about Andaman and Nicobar Islands.",
+        "Why No Chief Minister?": "As a Union Territory, Andaman and Nicobar Islands does not have a Chief Minister. The administrative head is the Lieutenant Governor, who is appointed by the President of India and oversees the governance of the territory on behalf of the central government.",
+        "Current Lieutenant Governor": "Admiral D. K. Joshi is the current Lieutenant Governor of Andaman and Nicobar Islands, responsible for the administration of the territory.",
+        "Unlike states, Union Territories are administered by the Central Government. Some Union Territories like":"Delhi & Puducherry have elected governments and Chief Ministers.But Andaman and Nicobar Islands does not have a legislative assembly, so there is no CM post.",
+        "type": "Andaman and Nicobar Islands is a Union Territory of India located in the Bay of Bengal. Its capital is Port Blair. Unlike Indian states, it does not have a Chief Minister or Legislative Assembly and is directly governed by the Central Government through a Lieutenant Governor. The islands are famous for their natural beauty, coral reefs, beaches, tribal communities, and the historic Cellular Jail, which played an important role during India’s freedom struggle."
+      }
+    ]
+  },
+  "chandigarh": {
+    "currentCM": {
+      "name": "Banwarilal Purohit",
+      "designation": "Administrator",
+      "stateName": "Chandigarh",
+      "description": "Current Administrator of Chandigarh.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Chandigarh",
+        "type": "Union Territory",
+        "capital": "Chandigarh",
+        "chiefMinister": null,
+        "administrator": "Banwarilal Purohit",
+        "location": "Northern India",
+        "famousFor": [
+          "Rock Garden",
+          "Sukhna Lake",
+          "Rose Garden",
+          "Capitol Complex"
+        ],
+        "governedBy": "Central Government of India",
+        "hasLegislativeAssembly": false
+      },
+      {
+        "description": "Important Information",
+        "details": "Chandigarh is a Union Territory of India, not a state.Therefore: It does not have a Chief Minister. It is governed by an Administrator appointed by the President of India.Administration is controlled directly by the Central Government of India.",
+        "disclaimer": "The list of ex-Chief Ministers is not applicable for Chandigarh due to its status as a Union Territory.",
+        "importantNote": "Please refer to the current Administrator for administrative information about Chandigarh.",
+        "Why No Chief Minister?": "As a Union Territory, Chandigarh does not have a Chief Minister. The administrative head is the Administrator, who is appointed by the President of India and oversees the governance of the territory on behalf of the central government.",
+        "Current Administrator": "Banwarilal Purohit is the current Administrator of Chandigarh, responsible for the administration of the territory.",
+        "Unlike states, Union Territories are administered by the Central Government. Some Union Territories like":"Delhi & Puducherry have elected governments and Chief Ministers.But Chandigarh does not have a legislative assembly, so there is no CM post.",
+        "type": "Chandigarh is a Union Territory of India located in Northern India. It serves as the capital for both Punjab and Haryana states. Unlike Indian states, it does not have a Chief Minister or Legislative Assembly and is directly governed by the Central Government through an Administrator. Chandigarh is famous for its modern architecture, urban planning, Rock Garden, Sukhna Lake, Rose Garden, and Capitol Complex."
+      }
+    ]
+  },
+  "dadra-and-nagar-haveli-and-daman-and-diu": {
+    "currentCM": {
+      "name": "Praful Khoda Patel",
+      "designation": "Administrator",
+      "stateName": "Dadra and Nagar Haveli and Daman and Diu",
+      "description": "Current Administrator of Dadra and Nagar Haveli and Daman and Diu.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Dadra and Nagar Haveli and Daman and Diu",
+        "type": "Union Territory",
+        "capital": "Daman",
+        "chiefMinister": null,
+        "administrator": "Praful Khoda Patel",
+        "location": "Western India",
+        "famousFor": [
+          "Beaches",
+          "Portuguese heritage",
+          "Dudhani Lake",
+          "Silvassa"
+        ],
+        "governedBy": "Central Government of India",
+        "hasLegislativeAssembly": false
+      },
+      {
+        "description": "Important Information",
+        "details": "Dadra and Nagar Haveli and Daman and Diu is a Union Territory of India, not a state.Therefore: It does not have a Chief Minister. It is governed by an Administrator appointed by the President of India.Administration is controlled directly by the Central Government of India.",
+        "disclaimer": "The list of ex-Chief Ministers is not applicable for Dadra and Nagar Haveli and Daman and Diu due to its status as a Union Territory.",
+        "importantNote": "Please refer to the current Administrator for administrative information about Dadra and Nagar Haveli and Daman and Diu.",
+        "Why No Chief Minister?": "As a Union Territory, Dadra and Nagar Haveli and Daman and Diu does not have a Chief Minister. The administrative head is the Administrator, who is appointed by the President of India and oversees the governance of the territory on behalf of the central government.",
+        "Current Administrator": "Praful Khoda Patel is the current Administrator of Dadra and Nagar Haveli and Daman and Diu, responsible for the administration of the territory.",
+        "Unlike states, Union Territories are administered by the Central Government. Some Union Territories like":"Delhi & Puducherry have elected governments and Chief Ministers.But Dadra and Nagar Haveli and Daman and Diu does not have a legislative assembly, so there is no CM post.",
+        "type": "Dadra and Nagar Haveli and Daman and Diu is a Union Territory of India located in Western India. It was formed by merging the former Union Territories of Dadra and Nagar Haveli and Daman and Diu. The capital is Daman. Unlike Indian states, it does not have a Chief Minister or Legislative Assembly and is directly governed by the Central Government through an Administrator. The territory is famous for its beaches, Portuguese heritage, Dudhani Lake, and the town of Silvassa."  
+      }
+    ]
+  },
+  "delhi": {
+    "currentCM": {
+      "name": "Rekha Gupta",
+      "designation": "Chief Minister",
+      "stateName": "Delhi",
+      "party": "Bharatiya Janata Party (BJP)",
+      "period": "2025 - Present",
+      "description": "Current Chief Minister of Delhi.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Atishi Marlena",
+        "designation": "Chief Minister",
+        "stateName": "Delhi",
+        "party": "Aam Aadmi Party (AAP)",
+        "period": "2024 - 2025",
+        "description": "Former Chief Minister of Delhi.",
+        "img": null
+      },
+      {
+        "name": "Arvind Kejriwal",
+        "designation": "Chief Minister",
+        "stateName": "Delhi",
+        "party": "Aam Aadmi Party (AAP)",
+        "period": "2013 - 2014, 2015 - 2024",
+        "description": "Former Chief Minister of Delhi.",
+        "img": null
+      },
+      {
+        "name": "Sheila Dikshit",
+        "designation": "Chief Minister",
+        "stateName": "Delhi",
+        "party": "Indian National Congress (INC)",
+        "period": "1998 - 2013",
+        "description": "Former Chief Minister of Delhi.",
+        "img": null
+      },
+      {
+        "name": "Sushma Swaraj",
+        "designation": "Chief Minister",
+        "stateName": "Delhi",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "1998",
+        "description": "Former Chief Minister of Delhi.",
+        "img": null
+      },
+      {
+        "name": "Sahib Singh Verma",
+        "designation": "Chief Minister",
+        "stateName": "Delhi",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "1996 - 1998",
+        "description": "Former Chief Minister of Delhi.",
+        "img": null
+      },
+      {
+        "name": "Madan Lal Khurana",
+        "designation": "Chief Minister",
+        "stateName": "Delhi",
+        "party": "Bharatiya Janata Party (BJP)",
+        "period": "1993 - 1996",
+        "description": "Former Chief Minister of Delhi.",
+        "img": null
+      },
+      {
+        "name": "President’s Rule / No CM",
+        "party": "N/A",
+        "period": "1956 - 1993",
+        "description": "Delhi was under President's Rule / there was no Chief Minister.",
+        "img": null
+      },
+      {
+        "name": "Gurmukh Nihal Singh",
+        "designation": "Chief Minister",
+        "stateName": "Delhi",
+        "party": "Indian National Congress (INC)",
+        "period": "1955 - 1956",
+        "description": "Former Chief Minister of Delhi.",
+        "img": null
+      },
+      {
+        "name": "Chaudhary Brahm Prakash",
+        "designation": "Chief Minister",
+        "stateName": "Delhi",
+        "party": "Indian National Congress (INC)",
+        "period": "1952 - 1955",
+        "description": "Former Chief Minister of Delhi.",
+        "img": null
+      }
+    ]
+  },
+  "jammu-and-kashmir": {
+    "currentCM": {
+      "name": "Manoj Sinha",
+      "designation": "Lieutenant Governor",
+      "stateName": "Jammu and Kashmir",
+      "description": "Current Lieutenant Governor of Jammu and Kashmir.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Jammu and Kashmir",
+        "type": "Union Territory",
+        "capital": "Srinagar (summer), Jammu (winter)",
+        "chiefMinister": null,
+        "lieutenantGovernor": "Manoj Sinha",
+        "location": "Northern India",
+        "famousFor": [
+          "Dal Lake",
+          "Gulmarg",
+          "Pahalgam",
+          "Mughal Gardens"
+        ],
+        "governedBy": "Central Government of India",
+        "hasLegislativeAssembly": false
+      },
+      {
+        "description": "Important Information",
+        "details": "Jammu and Kashmir is a Union Territory of India, not a state.Therefore: It does not have a Chief Minister. It is governed by a Lieutenant Governor appointed by the President of India.Administration is controlled directly by the Central Government of India.",
+        "disclaimer": "The list of ex-Chief Ministers is not applicable for Jammu and Kashmir due to its status as a Union Territory.",
+        "importantNote": "Please refer to the current Lieutenant Governor for administrative information about Jammu and Kashmir.",
+        "Why No Chief Minister?": "As a Union Territory, Jammu and Kashmir does not have a Chief Minister. The administrative head is the Lieutenant Governor, who is appointed by the President of India and oversees the governance of the territory on behalf of the central government.",
+        "Current Lieutenant Governor": "Manoj Sinha is the current Lieutenant Governor of Jammu and Kashmir, responsible for the administration of the territory.",
+        "Unlike states, Union Territories are administered by the Central Government. Some Union Territories like":"Delhi & Puducherry have elected governments and Chief Ministers.But Jammu and Kashmir does not have a legislative assembly, so there is no CM post.",
+        "type": "Jammu and Kashmir is a Union Territory of India located in Northern India. It has two capitals: Srinagar (summer) and Jammu (winter). Unlike Indian states, it does not have a Chief Minister or Legislative Assembly and is directly governed by the Central Government through a Lieutenant Governor. The region is famous for its natural beauty, including Dal Lake, Gulmarg, Pahalgam, and Mughal Gardens."
+      } 
+    ]
+  },
+  "ladakh": {
+    "currentCM": {
+      "name": "Radha Krishna Mathur",
+      "designation": "Lieutenant Governor",
+      "stateName": "Ladakh",
+      "description": "Current Lieutenant Governor of Ladakh.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Ladakh",
+        "type": "Union Territory",
+        "capital": "Leh",
+        "chiefMinister": null,
+        "lieutenantGovernor": "Radha Krishna Mathur",
+        "location": "Northern India",
+        "famousFor": [
+          "Pangong Lake",
+          "Nubra Valley",
+          "Khardung La Pass",
+          "Monasteries"
+        ],
+        "governedBy": "Central Government of India",
+        "hasLegislativeAssembly": false
+      },
+      {
+        "description": "Important Information",
+        "details": "Ladakh is a Union Territory of India, not a state.Therefore: It does not have a Chief Minister. It is governed by a Lieutenant Governor appointed by the President of India.Administration is controlled directly by the Central Government of India.",
+        "disclaimer": "The list of ex-Chief Ministers is not applicable for Ladakh due to its status as a Union Territory.",
+        "importantNote": "Please refer to the current Lieutenant Governor for administrative information about Ladakh.",
+        "Why No Chief Minister?": "As a Union Territory, Ladakh does not have a Chief Minister. The administrative head is the Lieutenant Governor, who is appointed by the President of India and oversees the governance of the territory on behalf of the central government.",
+        "Current Lieutenant Governor": "Radha Krishna Mathur is the current Lieutenant Governor of Ladakh, responsible for the administration of the territory.",
+        "Unlike states, Union Territories are administered by the Central Government. Some Union Territories like":"Delhi & Puducherry have elected governments and Chief Ministers.But Ladakh does not have a legislative assembly, so there is no CM post.",
+        "type": "Ladakh is a Union Territory of India located in Northern India. Its capital is Leh. Unlike Indian states, it does not have a Chief Minister or Legislative Assembly and is directly governed by the Central Government through a Lieutenant Governor. Ladakh is famous for its stunning landscapes, including Pangong Lake, Nubra Valley, Khardung La Pass, and its rich cultural heritage with numerous monasteries."
+      }
+    ]
+  },
+  "lakshadweep": {
+    "currentCM": {
+      "name": "Mani Shankar Aiyar",
+      "designation": "Lieutenant Governor",
+      "stateName": "Lakshadweep",
+      "description": "Current Lieutenant Governor of Lakshadweep.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "Lakshadweep",
+        "type": "Union Territory",
+        "capital": "Kavaratti",
+        "chiefMinister": null,
+        "lieutenantGovernor": "Mani Shankar Aiyar",
+        "location": "Southwest India",
+        "famousFor": [
+          "Beaches",
+          "Snorkeling",
+          "Diving"
+        ],
+        "governedBy": "Central Government of India",
+        "hasLegislativeAssembly": false
+      },
+      {
+        "description": "Important Information",
+        "details": "Lakshadweep is a Union Territory of India, not a state.Therefore: It does not have a Chief Minister. It is governed by a Lieutenant Governor appointed by the President of India.Administration is controlled directly by the Central Government of India.",
+        "disclaimer": "The list of ex-Chief Ministers is not applicable for Lakshadweep due to its status as a Union Territory.",
+        "importantNote": "Please refer to the current Lieutenant Governor for administrative information about Lakshadweep.",
+        "Why No Chief Minister?": "As a Union Territory, Lakshadweep does not have a Chief Minister. The administrative head is the Lieutenant Governor, who is appointed by the President of India and oversees the governance of the territory on behalf of the central government.",
+        "Current Lieutenant Governor": "Mani Shankar Aiyar is the current Lieutenant Governor of Lakshadweep, responsible for the administration of the territory.",
+        "Unlike states, Union Territories are administered by the Central Government. Some Union Territories like":"Delhi & Puducherry have elected governments and Chief Ministers.But Lakshadweep does not have a legislative assembly, so there is no CM post.",
+        "type": "Lakshadweep is a Union Territory of India located in Southwest India. Its capital is Kavaratti. Unlike Indian states, it does not have a Chief Minister or Legislative Assembly and is directly governed by the Central Government through a Lieutenant Governor. Lakshadweep is famous for its pristine beaches, snorkeling, and diving opportunities in the Arabian Sea."
+      }
+    ]
+  },
+  "puducherry":{
+    "currentCM": {
+      "name": "N. Rangaswamy",
+      "designation": "Chief Minister",
+      "stateName": "Puducherry",
+      "party": "Indian National Congress / All India N.R. Congress",
+      "period": "2021 - Present",
+      "description": "Current Chief Minister of Puducherry.",
+      "img": null
+    },
+    "exCMs": [
+      {
+        "name": "V. Narayanasamy",
+        "designation": "Chief Minister",
+        "stateName": "Puducherry",
+        "party": "Indian National Congress (INC)",
+        "period": "2016 - 2021",
+        "description": "Former Chief Minister of Puducherry.",
+        "img": null
+      },
+      {
+        "name": "P. Shanmugam",
+        "designation": "Chief Minister",
+        "stateName": "Puducherry",
+        "party": "Indian National Congress (INC)",
+        "period": "2000 - 2001",
+        "description": "Former Chief Minister of Puducherry.",
+        "img": null
+      },
+      {
+        "name": "R. V. Janakiraman",
+        "designation": "Chief Minister",
+        "stateName": "Puducherry",
+        "party": "Dravida Munnetra Kazhagam (DMK)",
+        "period": "1996 - 2000",
+        "description": "Former Chief Minister of Puducherry.",
+        "img": null
+      },
+      {
+        "name": "V. Vaithilingam",
+        "designation": "Chief Minister",
+        "stateName": "Puducherry",
+        "party": "Indian National Congress (INC)",
+        "period": "1991 - 1996, 2008 - 2011",
+        "description": "Former Chief Minister of Puducherry.",
+        "img": null
+      },
+      {
+        "name": "M. D. R. Ramachandran",
+        "designation": "Chief Minister",
+        "stateName": "Puducherry",
+        "party": "Dravida Munnetra Kazhagam (DMK)",
+        "period": "1990 - 1991",
+        "description": "Former Chief Minister of Puducherry.",
+        "img": null
+      },
+      {
+        "name": "M. O. H. Farook",
+        "designation": "Chief Minister",
+        "stateName": "Puducherry",
+        "party": "Indian National Congress (INC)",
+        "period": "1985 - 1990",
+        "description": "Former Chief Minister of Puducherry.",
+        "img": null
+      },
+      {
+        "name": "M. D. R. Ramachandran",
+        "designation": "Chief Minister",
+        "stateName": "Puducherry",
+        "party": "All India Anna Dravida Munnetra Kazhagam (AIADMK)",
+        "period": "1980 - 1983",
+        "description": "Former Chief Minister of Puducherry.",
+        "img": null
+      },
+      {
+        "name": "M. O. H. Farook",
+        "designation": "Chief Minister",
+        "stateName": "Puducherry",
+        "party": "Dravida Munnetra Kazhagam (DMK) / Indian National Congress (INC)",
+        "period": "1967 - 1968, 1969 - 1974, 1985 - 1990",
+        "description": "Former Chief Minister of Puducherry.",
+        "img": null
+      },
+      {
+        "name": "V. Venkatasubba Reddiar",
+        "designation": "Chief Minister",
+        "stateName": "Puducherry",
+        "party": "Indian National Congress (INC)",
+        "period": "1964 - 1967",
+        "description": "Former Chief Minister of Puducherry.",
+        "img": null
+      },
+      {
+        "name": "Edouard Goubert",
+        "designation": "Chief Minister",
+        "stateName": "Puducherry",
+        "party": "Indian National Congress (INC)",
+        "period": "1963 - 1964",
+        "description": "Former Chief Minister of Puducherry.",
+        "img": null
+      }
+    ]
+  }
+
+
+}

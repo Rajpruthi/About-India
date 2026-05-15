@@ -1,0 +1,18 @@
+.page{padding:14px 0 50px;}
+.container{width:min(980px, 92vw); margin:0 auto;}
+.header{display:flex; gap:16px; align-items:flex-start; margin:6px 0 16px;}
+.icon{width:64px; height:64px; border-radius:22px; display:flex; align-items:center; justify-content:center; background:linear-gradient(135deg, rgba(255,122,24,0.18), rgba(11,122,62,0.10)); border:1px solid rgba(255,122,24,0.25); font-size:30px;}
+.h1{margin:0; color:var(--indigo); font-size:clamp(26px, 3.2vw, 44px);}
+.sub{margin-top:6px; color:var(--muted); font-weight:700;}
+
+.panel{background:#fff; border:1px solid rgba(2,6,23,0.06); border-radius:22px; padding:16px; box-shadow:0 16px 40px rgba(2,6,23,0.05);}
+.periodRow{display:flex; flex-wrap:wrap; gap:10px; margin-bottom:12px;}
+.periodBtn{padding:10px 12px; border-radius:999px; background:rgba(255,122,24,0.10); border:1px solid rgba(255,122,24,0.22); font-weight:850; color:var(--indigo); cursor:pointer;}
+.periodBtnActive{padding:10px 12px; border-radius:999px; background:rgba(255,255,255,0.92); border:1px solid rgba(255,122,24,0.55); box-shadow:0 14px 30px rgba(255,122,24,0.12); font-weight:950; color:var(--indigo); cursor:pointer;}
+
+.listWrap{border-radius:18px; border:1px solid rgba(27,42,74,0.12); background:rgba(255,255,255,0.6); padding:12px;}
+.listHead{font-weight:1000; color:var(--indigo); margin-bottom:10px;}
+.list{display:flex; flex-direction:column; gap:10px;}
+.item{padding:12px 14px; border-radius:16px; background:rgba(255,255,255,0.75); border:1px solid rgba(2,6,23,0.06); color:rgba(27,42,74,0.92); font-weight:800;}
+.empty{padding:18px 14px; color:var(--muted); font-weight:800;}
+

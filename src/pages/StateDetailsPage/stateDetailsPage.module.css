@@ -1,0 +1,156 @@
+.page{padding:14px 0 50px;}
+.container{width:min(980px, 92vw); margin:0 auto;}
+
+.top{margin:6px 0 16px;}
+.titleRow{display:flex; gap:16px; align-items:center; flex-wrap:wrap;}
+.bigIcon{width:64px; height:64px; border-radius:22px; display:flex; align-items:center; justify-content:center; background:linear-gradient(135deg, rgba(255,122,24,0.18), rgba(11,122,62,0.10)); border:1px solid rgba(255,122,24,0.25); font-size:30px;}
+.h1{margin:0; color:var(--indigo); font-size:clamp(26px, 3.2vw, 44px);}
+.sub{margin:8px 0 0; color:var(--muted); font-weight:700;}
+
+.cards{display:grid; grid-template-columns: repeat(3, 1fr); gap:14px; margin-top:18px;}
+.card{background:#fff; border:1px solid rgba(2,6,23,0.06); border-radius:20px; padding:16px; box-shadow:0 16px 40px rgba(2,6,23,0.05);}
+.cardLabel{color:var(--muted); font-weight:900; font-size:12px;}
+.cardValue{margin-top:10px; font-weight:1000; color:var(--indigo); font-size:18px;}
+
+.cmLabel {
+  font-weight: 1000;
+  text-transform: uppercase;
+  font-size: 13px;
+  color: var(--saffron);
+  margin-bottom: 20px;
+  letter-spacing: 1px;
+}
+
+.ministersGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 16px;
+}
+
+.ministerItem {
+  background: rgba(2, 6, 23, 0.03);
+  padding: 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(2, 6, 23, 0.05);
+  transition: all 0.2s ease;
+}
+
+.ministerItem:hover {
+  background: white;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  transform: translateY(-2px);
+}
+
+.ministerName {
+  font-weight: 900;
+  color: var(--indigo);
+  font-size: 14px;
+  margin-bottom: 2px;
+}
+
+.ministerDept {
+  font-size: 12px;
+  color: var(--muted);
+  font-weight: 600;
+  line-height: 1.3;
+  margin-bottom: 8px;
+}
+
+.ministerMeta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: auto;
+  padding-top: 8px;
+  border-top: 1px solid rgba(2, 6, 23, 0.04);
+}
+
+.ministerParty {
+  font-size: 10px;
+  font-weight: 900;
+  padding: 2px 6px;
+  border-radius: 4px;
+  background: var(--indigo);
+  color: white;
+  text-transform: uppercase;
+}
+
+.ministerParty[data-party="BJP"] { background: var(--saffron); }
+.ministerParty[data-party="INC"] { background: #0080FF; }
+.ministerParty[data-party="AITC"] { background: #20C120; }
+.ministerParty[data-party="DMK"] { background: #ED1B24; }
+.ministerParty[data-party="NCP"] { background: #006400; }
+.ministerParty[data-party="SP"] { background: #FF0000; }
+.ministerParty[data-party="TDP"] { background: #FFFF00; color: black; }
+.ministerParty[data-party="AAP"] { background: #0066FF; }
+
+.ministerSince {
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--muted);
+}
+
+.section{margin-top:56px; background:#fff; border:1px solid rgba(2,6,23,0.06); border-radius:22px; padding:18px; box-shadow:0 16px 40px rgba(2,6,23,0.05);}
+.sectionHead{font-weight:1000; color:var(--indigo); margin-bottom:12px;}
+.cmRow{display:grid; grid-template-columns: 1.05fr 1.95fr; gap:14px; align-items:stretch;}
+.cmCard{background:rgba(255,255,255,0.65); border:1px solid rgba(27,42,74,0.15); border-radius:18px; padding:14px;}
+.cmLabel{color:var(--muted); font-weight:1000; font-size:12px;}
+.cmValue{margin-top:10px; font-weight:1100; color:var(--indigo); font-size:18px;}
+.cmSub{margin-top:6px; color:var(--muted); font-weight:800; font-size:13px; opacity:0.9;}
+.ministers{display:flex; flex-wrap:wrap; gap:10px; margin-top:10px;}
+.placeChip[role="button"]{cursor:pointer;}
+
+
+.places{display:flex; flex-wrap:wrap; gap:10px;}
+.placeChip{padding:10px 12px; border-radius:999px; background:rgba(255,122,24,0.10); border:1px solid rgba(255,122,24,0.22); font-weight:850; color:var(--indigo); transform: translateZ(0); transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;}
+.placeChip:hover{transform: translateY(-1px) translateZ(10px); box-shadow:0 12px 26px rgba(2,6,23,0.10); border-color: rgba(255,122,24,0.38);}
+
+/* 3D Tourism Animation */
+.spots3d{position:relative; margin-top:14px; height:140px; perspective: 1000px; overflow:hidden; border-radius:18px; border:1px solid rgba(27,42,74,0.10); background: radial-gradient(120% 120% at 15% 10%, rgba(255,122,24,0.18) 0%, rgba(255,255,255,0) 55%), linear-gradient(180deg, rgba(2,6,23,0.03), rgba(2,6,23,0.00));}
+
+.spot3dLayer1,.spot3dLayer2,.spot3dLayer3,.spot3dRidge{position:absolute; inset:-30px; transform-style:preserve-3d;}
+
+/* Base glow layers */
+.spot3dLayer1{background: radial-gradient(closest-side, rgba(255,122,24,0.34), rgba(255,122,24,0.00)); transform: translate3d(-18px, 8px, -45px) rotateX(66deg) rotateZ(-12deg); animation: spotFloat1 4.0s ease-in-out infinite;}
+.spot3dLayer2{background: radial-gradient(closest-side, rgba(11,122,62,0.24), rgba(11,122,62,0.00)); transform: translate3d(12px, -6px, -12px) rotateX(56deg) rotateZ(10deg); animation: spotFloat2 4.8s ease-in-out infinite;}
+.spot3dLayer3{background: linear-gradient(90deg, rgba(99,102,241,0.17), rgba(255,122,24,0.12), rgba(11,122,62,0.12)); transform: translate3d(0px, 26px, 0px) rotateX(72deg) rotateZ(0deg); animation: spotFloat3 3.4s ease-in-out infinite; opacity:0.98;}
+
+/* Extra 3D ridge for “more 3D” */
+.spot3dRidge{
+  background:
+    linear-gradient(120deg, rgba(255,122,24,0.00) 0%, rgba(255,122,24,0.22) 38%, rgba(11,122,62,0.16) 65%, rgba(11,122,62,0.00) 100%);
+  transform: translate3d(-2px, 6px, 10px) rotateX(78deg) rotateZ(-6deg);
+  clip-path: polygon(8% 10%, 92% 10%, 78% 56%, 58% 72%, 30% 84%, 14% 55%);
+  animation: spotRidgeFloat 2.9s ease-in-out infinite;
+  opacity:0.85;
+}
+
+@keyframes spotFloat1{0%,100%{transform: translate3d(-18px, 8px, -45px) rotateX(66deg) rotateZ(-12deg);}50%{transform: translate3d(-10px, 0px, -32px) rotateX(70deg) rotateZ(-6deg);}}
+@keyframes spotFloat2{0%,100%{transform: translate3d(12px, -6px, -12px) rotateX(56deg) rotateZ(10deg);}50%{transform: translate3d(3px, 0px, -20px) rotateX(60deg) rotateZ(4deg);}}
+@keyframes spotFloat3{0%,100%{transform: translate3d(0px, 26px, 0px) rotateX(72deg) rotateZ(0deg);}50%{transform: translate3d(6px, 12px, 10px) rotateX(78deg) rotateZ(2deg);}}
+
+@keyframes spotRidgeFloat{0%,100%{transform: translate3d(-2px, 6px, 10px) rotateX(78deg) rotateZ(-6deg);}50%{transform: translate3d(10px, 0px, 26px) rotateX(82deg) rotateZ(2deg);}}
+
+@media (prefers-reduced-motion: reduce){
+  .spot3dLayer1,.spot3dLayer2,.spot3dLayer3,.spot3dRidge{animation:none;}
+  .placeChip:hover{transform:none;}
+}
+
+
+.note{color:var(--muted); font-weight:650; line-height:1.5;}
+
+
+.skeleton{height:360px; border-radius:24px; background:linear-gradient(90deg, rgba(2,6,23,0.04), rgba(2,6,23,0.10), rgba(2,6,23,0.04)); background-size:200% 100%; animation:shimmer 1.2s infinite linear; border:1px solid rgba(2,6,23,0.06);}
+@keyframes shimmer{0%{background-position:0% 0;} 100%{background-position:200% 0;}}
+
+@media (max-width: 900px){
+  .cards{grid-template-columns:1fr;}
+  .cmRow { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 520px) {
+  .titleRow { flex-direction: column; align-items: flex-start; }
+  .bigIcon { width: 48px; height: 48px; font-size: 24px; }
+  .h1 { font-size: 24px; }
+}
+
