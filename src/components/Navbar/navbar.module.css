@@ -1,56 +1,250 @@
-.header{position:sticky; top:0; z-index:50; background:rgba(255,255,255,0.75); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom:1px solid rgba(2,6,23,0.06);}
-.inner{display:flex; align-items:center; justify-content:space-between; gap:16px; padding:14px 0;}
-.brand{display:flex; align-items:center; gap:12px; min-width:max-content;}
-.brandMark{width:14px; height:14px; border-radius:4px; background:linear-gradient(135deg, var(--saffron), var(--green)); box-shadow:0 8px 20px rgba(255, 122, 24, 0.25);}
-.brandText{font-weight:800; letter-spacing:0.2px; color:var(--indigo);}
-
-.nav{display:flex; gap:18px; align-items:center;}
-.link{color:var(--muted); font-weight:600; padding:10px 10px; border-radius:12px; transition:all .2s ease;}
-.link:hover{background:rgba(27,42,74,0.05); color:var(--indigo); transform:translateY(-1px);}
-.active{color:var(--indigo); background:rgba(255, 122, 24, 0.10);}
-
-.search{display:flex; align-items:center; gap:8px; background:rgba(255,255,255,0.9); border:1px solid rgba(2,6,23,0.08); padding:8px 10px; border-radius:999px; box-shadow:0 12px 30px rgba(2,6,23,0.05); min-width:320px;}
-.search input{border:none; outline:none; background:transparent; width:100%; color:var(--text);}
-.search button{border:none; background:transparent; cursor:pointer; font-size:16px; padding:6px 8px; border-radius:10px; transition:background .2s ease;}
-.search button:hover{background:rgba(2,6,23,0.06);}
-
-.mobileMenuBtn{display:none; border:none; background:rgba(2,6,23,0.04); border:1px solid rgba(2,6,23,0.08); border-radius:12px; padding:10px 12px; cursor:pointer;}
-
-@media (max-width: 900px){
-  .nav{
-    position: fixed;
-    top: 68px;
-    left: 0;
-    right: 0;
-    background: #fff;
-    flex-direction: column;
-    padding: 24px;
-    gap: 12px;
-    box-shadow: 0 20px 40px rgba(2,6,23,0.1);
-    transform: translateY(-110%);
-    transition: transform 0.3s ease-in-out;
-    display: flex;
-    z-index: 49;
-  }
-  .navOpen {
-    transform: translateY(0);
-  }
-  .search{display: none;}
-  .mobileMenuBtn{display:block;}
-  .inner{padding:12px 0;}
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
 }
 
+.scrolled {
+  background: rgba(255, 255, 255, 0.85);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.03);
+  padding: 4px 0;
+}
+
+.inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 0;
+  transition: padding 0.3s ease;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+}
+
+.brandMark {
+  width: 28px;
+  height: 28px;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #FF9933, #FFFFFF, #128807);
+  box-shadow: 0 4px 12px rgba(255, 153, 51, 0.3);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.brandMark::after {
+  content: '';
+  width: 10px;
+  height: 10px;
+  border: 1.5px solid #000080;
+  border-radius: 50%;
+}
+
+.brandText {
+  font-weight: 800;
+  font-size: 1.2rem;
+  background: linear-gradient(135deg, #1b2a4a 0%, #3a506b 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: -0.5px;
+}
+
+.desktopNav {
+  display: flex;
+  gap: 8px;
+}
+
+.link {
+  position: relative;
+  text-decoration: none;
+  color: #555;
+  font-weight: 600;
+  padding: 8px 16px;
+  border-radius: 10px;
+  transition: all 0.2s ease;
+  font-size: 0.95rem;
+}
+
+.link:hover {
+  color: #000;
+  background: rgba(0, 0, 0, 0.03);
+}
+
+.active {
+  color: #FF9933;
+}
+
+.underline {
+  position: absolute;
+  bottom: 4px;
+  left: 16px;
+  right: 16px;
+  height: 2px;
+  background: #FF9933;
+  border-radius: 2px;
+}
+
+.rightSection {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.03);
+  border-radius: 12px;
+  padding: 6px 12px;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  width: 240px;
+  transition: all 0.3s ease;
+}
+
+.search:focus-within {
+  background: #fff;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  width: 280px;
+}
+
+.search input {
+  border: none;
+  background: transparent;
+  outline: none;
+  width: 100%;
+  font-size: 0.9rem;
+  color: #333;
+}
+
+.search button {
+  border: none;
+  background: transparent;
+  color: #888;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  padding: 4px;
+}
+
+.mobileMenuBtn {
+  display: none;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  padding: 8px;
+}
+
+.hamburger {
+  width: 24px;
+  height: 18px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.hamburger span {
+  display: block;
+  width: 100%;
+  height: 2.5px;
+  background: #333;
+  border-radius: 2px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.hamburgerOpen span:nth-child(1) {
+  transform: translateY(8px) rotate(45deg);
+}
+
+.hamburgerOpen span:nth-child(2) {
+  opacity: 0;
+}
+
+.hamburgerOpen span:nth-child(3) {
+  transform: translateY(-8px) rotate(-45deg);
+}
+
+/* Mobile Nav */
 .overlay {
   position: fixed;
   inset: 0;
-  top: 68px;
-  background: rgba(2, 6, 23, 0.2);
+  background: rgba(0, 0, 0, 0.2);
   backdrop-filter: blur(4px);
-  z-index: 48;
+  z-index: 998;
 }
 
-@media (max-width: 520px) {
-  .brandText { font-size: 14px; }
-  .inner { gap: 8px; }
+.mobileNav {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 300px;
+  background: white;
+  z-index: 999;
+  box-shadow: -10px 0 30px rgba(0, 0, 0, 0.1);
+  padding: 80px 24px 24px;
+}
+
+.mobileNavContent {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.mobileLink {
+  text-decoration: none;
+  color: #333;
+  font-size: 1.2rem;
+  font-weight: 700;
+  display: block;
+  padding: 12px 16px;
+  border-radius: 12px;
+  transition: all 0.2s ease;
+}
+
+.mobileActive {
+  background: rgba(255, 153, 51, 0.1);
+  color: #FF9933;
+}
+
+.mobileSearch {
+  margin-bottom: 24px;
+}
+
+.mobileSearch input {
+  width: 100%;
+  padding: 14px 20px;
+  border-radius: 12px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background: rgba(0, 0, 0, 0.03);
+  font-size: 1rem;
+}
+
+@media (max-width: 1024px) {
+  .desktopNav, .search {
+    display: none;
+  }
+  .mobileMenuBtn {
+    display: block;
+  }
+}
+
+@media (max-width: 480px) {
+  .brandText {
+    display: none;
+  }
+  .mobileNav {
+    width: 100%;
+  }
 }
 
