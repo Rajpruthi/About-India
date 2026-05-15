@@ -8,7 +8,7 @@ import { primeMinisterHistoryPatched } from '../../data/government-history.pm-po
 
 import { presidentHistoryPatched } from '../../data/government-history.portraits.js';
 import { homeMinisterHistoryPatched } from '../../data/government-history.hm-portraits.js';
-import indiaPlaceholderImg from '../../assets/india.jpg';
+import indiaPlaceholderImg from '../../assets/India.jpg';
 import neutralAvatarImg from '../../assets/India.jpg';
 
 function useLoadingOnMount() {
